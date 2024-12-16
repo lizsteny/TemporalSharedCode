@@ -1,0 +1,1463 @@
+Epitope.ID;Epitope.IRI;Description;Object.Type;Starting.Position;Ending.Position;Epitope.Comments
+17605;http://www.iedb.org/epitope/17605;FRKEIGRML;Linear peptide;83;91;Epitope is conserved in Dengue virus type 2. Genbank ID of the capsid protein was found by BLASTing the sequence. Position of the epitope in the Genbank ID was displaced by one position (83-91).
+36533;http://www.iedb.org/epitope/36533;LIGFRKEIGRML;Linear peptide;80;91;
+195325;http://www.iedb.org/epitope/195325;FRKEIGRMLNILNGR;Linear peptide;83;97;The epitope is within the C protein.
+167808;http://www.iedb.org/epitope/167808;RDVNKEKVVGRVISSTPLAE;Linear peptide;619;638;
+583701;http://www.iedb.org/epitope/583701;GVSGGAWVDLVLEHGGCV;Linear peptide;293;310;
+185817;http://www.iedb.org/epitope/185817;SWMIRILIGF;Linear peptide;731;740;
+741747;http://www.iedb.org/epitope/741747;MRCVGVGNRDFVEGVSGGAW;Linear peptide;280;299;
+195364;http://www.iedb.org/epitope/195364;GGVSWMIRILIGILV;Linear peptide;728;742;The epitope is within the E protein.
+196020;http://www.iedb.org/epitope/196020;SWMIRILIGILVLWI;Linear peptide;731;745;The epitope is within the E protein.
+196018;http://www.iedb.org/epitope/196018;SWIIRILIGLLVLWI;Linear peptide;731;745;The epitope is within the E protein.
+196189;http://www.iedb.org/epitope/196189;VSWIIRILIGLLVLW;Linear peptide;730;744;The epitope is within the E protein.
+195472;http://www.iedb.org/epitope/195472;IAVGGITLFLGFTVH;Linear peptide;759;773;The epitope is within the E protein.
+195436;http://www.iedb.org/epitope/195436;GVSWMVRILIGFLVL;Linear peptide;729;743;The epitope is within the E protein.
+540080;http://www.iedb.org/epitope/540080;VRILIGFLVLWIGTN;Linear peptide;734;748;The epitope is within the E protein.
+539298;http://www.iedb.org/epitope/539298;GGVSWMVRILIGLLV;Linear peptide;728;742;This epitope is within the E protein.
+539734;http://www.iedb.org/epitope/539734;NLEYTVVVTVHNGDT;Linear peptide;413;427;
+738809;http://www.iedb.org/epitope/738809;ENLEYTVVVTVHNGD;Linear peptide;412;426;
+195221;http://www.iedb.org/epitope/195221;DLMELISGISLGLIL;Linear peptide;1243;1257;The epitope is within NS2A.
+195593;http://www.iedb.org/epitope/195593;KTFMKDGRSLVVPCR;Linear peptide;3202;3216;The epitope is within NS5.
+9668;http://www.iedb.org/epitope/9668;DPLKNDEDH;Linear peptide;1951;1959;
+9682;http://www.iedb.org/epitope/9682;DPMALKDFK;Linear peptide;2077;2085;
+28089;http://www.iedb.org/epitope/28089;IPTLFGPER;Linear peptide;1979;1987;
+38766;http://www.iedb.org/epitope/38766;LPVWLSYKV;Linear peptide;2016;2024;
+45302;http://www.iedb.org/epitope/45302;NPAQEDDQY;Linear peptide;1938;1946;
+55333;http://www.iedb.org/epitope/55333;RPRWLDARV;Linear peptide;2066;2074;
+180630;http://www.iedb.org/epitope/180630;LSMGLITIAV;Linear peptide;2173;2182;
+180772;http://www.iedb.org/epitope/180772;TLLCLIPTV;Linear peptide;103;111;
+180777;http://www.iedb.org/epitope/180777;TPEARNSTF;Linear peptide;899;907;
+182426;http://www.iedb.org/epitope/182426;AALSEGVYR;Linear peptide;1490;1498;
+182467;http://www.iedb.org/epitope/182467;AENTNSVTNI;Linear peptide;637;646;
+182476;http://www.iedb.org/epitope/182476;AERIGEPDY;Linear peptide;1642;1650;
+182515;http://www.iedb.org/epitope/182515;AIKILIGFR;Linear peptide;76;84;
+182516;http://www.iedb.org/epitope/182516;AIKILIGFRK;Linear peptide;76;85;
+182568;http://www.iedb.org/epitope/182568;ALTPPVSDLK;Linear peptide;877;886;
+182576;http://www.iedb.org/epitope/182576;AMHSALAGA;Linear peptide;538;546;
+182590;http://www.iedb.org/epitope/182590;APSESEGVL;Linear peptide;3379;3387;
+182614;http://www.iedb.org/epitope/182614;ASRRSWPLN;Linear peptide;1341;1349;
+182701;http://www.iedb.org/epitope/182701;CLIPTVMAF;Linear peptide;106;114;
+182762;http://www.iedb.org/epitope/182762;DFGSVGGLF;Linear peptide;700;708;
+182814;http://www.iedb.org/epitope/182814;DTVTYKCPL;Linear peptide;160;168;
+182816;http://www.iedb.org/epitope/182816;DTVTYKCPLL;Linear peptide;160;169;
+182883;http://www.iedb.org/epitope/182883;EEIDKKDGDL;Linear peptide;3007;3016;
+182956;http://www.iedb.org/epitope/182956;ELIDGISLG;Linear peptide;1247;1255;
+182957;http://www.iedb.org/epitope/182957;ELIDGISLGL;Linear peptide;1247;1256;
+183029;http://www.iedb.org/epitope/183029;ESQMLIPKSY;Linear peptide;1012;1021;
+183116;http://www.iedb.org/epitope/183116;EVLTLATGPI;Linear peptide;2431;2440;
+183173;http://www.iedb.org/epitope/183173;FGSVGGLFTS;Linear peptide;701;710;
+183198;http://www.iedb.org/epitope/183198;FLDLPLPWTA;Linear peptide;492;501;
+183279;http://www.iedb.org/epitope/183279;FTPEARNSTF;Linear peptide;898;907;
+183281;http://www.iedb.org/epitope/183281;FTSLGKAVHQ;Linear peptide;708;717;
+183292;http://www.iedb.org/epitope/183292;FTVQADMGCV;Linear peptide;770;779;
+183304;http://www.iedb.org/epitope/183304;FVVDNVHTW;Linear peptide;794;802;
+183317;http://www.iedb.org/epitope/183317;GASRRSWPL;Linear peptide;1340;1348;
+183318;http://www.iedb.org/epitope/183318;GASRRSWPLN;Linear peptide;1340;1349;
+183368;http://www.iedb.org/epitope/183368;GGNLVRCPLS;Linear peptide;2689;2698;
+183411;http://www.iedb.org/epitope/183411;GLFTSLGKA;Linear peptide;706;714;
+183412;http://www.iedb.org/epitope/183412;GLFTSLGKAV;Linear peptide;706;715;
+183444;http://www.iedb.org/epitope/183444;GPILTLWEGN;Linear peptide;2438;2447;
+183482;http://www.iedb.org/epitope/183482;GSSIGKMFES;Linear peptide;674;683;
+183531;http://www.iedb.org/epitope/183531;GVSWMIRILI;Linear peptide;729;738;
+183555;http://www.iedb.org/epitope/183555;GYVLGVFLR;Linear peptide;1211;1219;
+183617;http://www.iedb.org/epitope/183617;HTTERGGRAY;Linear peptide;2124;2133;
+183702;http://www.iedb.org/epitope/183702;IGKMFESTY;Linear peptide;677;685;
+183703;http://www.iedb.org/epitope/183703;IGKMFESTYR;Linear peptide;677;686;
+183757;http://www.iedb.org/epitope/183757;ILLKIVTQF;Linear peptide;1257;1265;
+183763;http://www.iedb.org/epitope/183763;ILNAHKDGV;Linear peptide;820;828;
+183824;http://www.iedb.org/epitope/183824;IPKSYAGPF;Linear peptide;1017;1025;
+183865;http://www.iedb.org/epitope/183865;ISSTPLAENT;Linear peptide;631;640;
+183882;http://www.iedb.org/epitope/183882;ITIAVASGL;Linear peptide;2178;2186;
+183906;http://www.iedb.org/epitope/183906;IVIGVGNSAL;Linear peptide;657;666;
+183934;http://www.iedb.org/epitope/183934;KAALSEGVY;Linear peptide;1489;1497;
+183943;http://www.iedb.org/epitope/183943;KAIKILIGF;Linear peptide;75;83;
+183944;http://www.iedb.org/epitope/183944;KAIKILIGFR;Linear peptide;75;84;
+183951;http://www.iedb.org/epitope/183951;KAKIFTPEAR;Linear peptide;894;903;
+184020;http://www.iedb.org/epitope/184020;KGKRALTPPV;Linear peptide;873;882;
+184078;http://www.iedb.org/epitope/184078;KLSMGLITI;Linear peptide;2172;2180;
+184089;http://www.iedb.org/epitope/184089;KMFESTYRG;Linear peptide;679;687;
+184090;http://www.iedb.org/epitope/184090;KMFESTYRGA;Linear peptide;679;688;
+184097;http://www.iedb.org/epitope/184097;KMSPGYVLGV;Linear peptide;1207;1216;
+184176;http://www.iedb.org/epitope/184176;KTQAIDGEF;Linear peptide;1989;1997;
+184177;http://www.iedb.org/epitope/184177;KTQAIDGEFR;Linear peptide;1989;1998;
+184209;http://www.iedb.org/epitope/184209;KVLRPTPRG;Linear peptide;3066;3074;
+184287;http://www.iedb.org/epitope/184287;LASAILNAHK;Linear peptide;816;825;
+184295;http://www.iedb.org/epitope/184295;LATGPILTLW;Linear peptide;2435;2444;
+184309;http://www.iedb.org/epitope/184309;LCLIPTVMAF;Linear peptide;105;114;
+184343;http://www.iedb.org/epitope/184343;LENVMWKQI;Linear peptide;837;845;
+184485;http://www.iedb.org/epitope/184485;LMIVAKHER;Linear peptide;124;132;
+184487;http://www.iedb.org/epitope/184487;LMKGASRRSW;Linear peptide;1337;1346;
+184511;http://www.iedb.org/epitope/184511;LMTLMKGASR;Linear peptide;1334;1343;
+184513;http://www.iedb.org/epitope/184513;LMYADDTAGW;Linear peptide;3016;3025;
+184516;http://www.iedb.org/epitope/184516;LNGRKRSTI;Linear peptide;94;102;
+184545;http://www.iedb.org/epitope/184545;LPLPWTAGA;Linear peptide;495;503;
+184619;http://www.iedb.org/epitope/184619;LTASLVMLL;Linear peptide;2346;2354;
+184620;http://www.iedb.org/epitope/184620;LTASLVMLLV;Linear peptide;2346;2355;
+184656;http://www.iedb.org/epitope/184656;LTPPVSDLKY;Linear peptide;878;887;
+184670;http://www.iedb.org/epitope/184670;LTSTWVMYGT;Linear peptide;183;192;
+184775;http://www.iedb.org/epitope/184775;MELIDGISL;Linear peptide;1246;1254;
+184795;http://www.iedb.org/epitope/184795;MFGGVSWMI;Linear peptide;726;734;
+184796;http://www.iedb.org/epitope/184796;MFGGVSWMIR;Linear peptide;726;735;
+184831;http://www.iedb.org/epitope/184831;MIRILIGFLV;Linear peptide;733;742;
+184841;http://www.iedb.org/epitope/184841;MLIPKSYAG;Linear peptide;1015;1023;
+184916;http://www.iedb.org/epitope/184916;MSPGYVLGV;Linear peptide;1208;1216;
+184917;http://www.iedb.org/epitope/184917;MSPGYVLGVF;Linear peptide;1208;1217;
+184946;http://www.iedb.org/epitope/184946;MTLMKGASR;Linear peptide;1335;1343;
+184947;http://www.iedb.org/epitope/184947;MTLMKGASRR;Linear peptide;1335;1344;
+185069;http://www.iedb.org/epitope/185069;NLTSTWVMY;Linear peptide;182;190;
+185091;http://www.iedb.org/epitope/185091;NPTTLTASL;Linear peptide;2342;2350;
+185105;http://www.iedb.org/epitope/185105;NSALTLHWF;Linear peptide;663;671;
+185106;http://www.iedb.org/epitope/185106;NSALTLHWFR;Linear peptide;663;672;
+185121;http://www.iedb.org/epitope/185121;NTNSVTNIEL;Linear peptide;639;648;
+185175;http://www.iedb.org/epitope/185175;PLAENTNSV;Linear peptide;635;643;
+185185;http://www.iedb.org/epitope/185185;PNERRAWNSL;Linear peptide;918;927;
+185197;http://www.iedb.org/epitope/185197;PPVSDLKYSW;Linear peptide;880;889;
+185217;http://www.iedb.org/epitope/185217;PVSDLKYSW;Linear peptide;881;889;
+185360;http://www.iedb.org/epitope/185360;RFGTSLLFL;Linear peptide;3161;3169;
+185413;http://www.iedb.org/epitope/185413;RLENVMWKQI;Linear peptide;836;845;
+185416;http://www.iedb.org/epitope/185416;RLGYILEEI;Linear peptide;3001;3009;
+185473;http://www.iedb.org/epitope/185473;RPRWLDARVY;Linear peptide;2066;2075;
+185477;http://www.iedb.org/epitope/185477;RPTPRGAVM;Linear peptide;3069;3077;
+185596;http://www.iedb.org/epitope/185596;SDLKYSWKTW;Linear peptide;883;892;
+185645;http://www.iedb.org/epitope/185645;SIGKMFESTY;Linear peptide;676;685;
+185678;http://www.iedb.org/epitope/185678;SLGLILLKIV;Linear peptide;1253;1262;
+185709;http://www.iedb.org/epitope/185709;SMGLITIAV;Linear peptide;2174;2182;
+185729;http://www.iedb.org/epitope/185729;SPGYVLGVF;Linear peptide;1209;1217;
+185730;http://www.iedb.org/epitope/185730;SPGYVLGVFL;Linear peptide;1209;1218;
+185781;http://www.iedb.org/epitope/185781;STITLLCLI;Linear peptide;100;108;
+185858;http://www.iedb.org/epitope/185858;TASLVMLLV;Linear peptide;2347;2355;
+185859;http://www.iedb.org/epitope/185859;TASLVMLLVH;Linear peptide;2347;2356;
+185873;http://www.iedb.org/epitope/185873;TEDDLQNEEL;Linear peptide;3030;3039;
+185932;http://www.iedb.org/epitope/185932;TKTTAKEVAL;Linear peptide;325;334;
+185934;http://www.iedb.org/epitope/185934;TLATGPILTL;Linear peptide;2434;2443;
+185974;http://www.iedb.org/epitope/185974;TMFGGVSWMI;Linear peptide;725;734;
+185994;http://www.iedb.org/epitope/185994;TPEARNSTFL;Linear peptide;899;908;
+186020;http://www.iedb.org/epitope/186020;TPRGAVMDI;Linear peptide;3071;3079;
+186021;http://www.iedb.org/epitope/186021;TPRGAVMDII;Linear peptide;3071;3080;
+186086;http://www.iedb.org/epitope/186086;TTERGGRAY;Linear peptide;2125;2133;
+186101;http://www.iedb.org/epitope/186101;TTLTASLVML;Linear peptide;2344;2353;
+186109;http://www.iedb.org/epitope/186109;TTRLENVMW;Linear peptide;834;842;
+186110;http://www.iedb.org/epitope/186110;TTRLENVMWK;Linear peptide;834;843;
+186227;http://www.iedb.org/epitope/186227;VEETNMITL;Linear peptide;1433;1441;
+186228;http://www.iedb.org/epitope/186228;VEETNMITLL;Linear peptide;1433;1442;
+186260;http://www.iedb.org/epitope/186260;VFLRKLTSR;Linear peptide;1216;1224;
+186310;http://www.iedb.org/epitope/186310;VLTLATGPIL;Linear peptide;2432;2441;
+186411;http://www.iedb.org/epitope/186411;VTYKCPLLV;Linear peptide;162;170;
+186484;http://www.iedb.org/epitope/186484;WMIRILIGF;Linear peptide;732;740;
+186485;http://www.iedb.org/epitope/186485;WMIRILIGFL;Linear peptide;732;741;
+186518;http://www.iedb.org/epitope/186518;WTAGADTSEV;Linear peptide;499;508;
+186601;http://www.iedb.org/epitope/186601;YSAPSESEGV;Linear peptide;3377;3386;
+186624;http://www.iedb.org/epitope/186624;YVLGVFLRK;Linear peptide;1212;1220;
+186625;http://www.iedb.org/epitope/186625;YVLGVFLRKL;Linear peptide;1212;1221;
+195135;http://www.iedb.org/epitope/195135;AIFKLTYQNKVVKVL;Linear peptide;3054;3068;
+195425;http://www.iedb.org/epitope/195425;GTSGSPIINRKGKVI;Linear peptide;1607;1621;
+195494;http://www.iedb.org/epitope/195494;IIGLIAANEMGLIEK;Linear peptide;2236;2250;
+195500;http://www.iedb.org/epitope/195500;ILGAQALPVYLMTLM;Linear peptide;1324;1338;
+195572;http://www.iedb.org/epitope/195572;KLALDNIVMLHTTER;Linear peptide;2114;2128;
+195660;http://www.iedb.org/epitope/195660;LLGSALLKNDVPLAG;Linear peptide;1360;1374;
+195675;http://www.iedb.org/epitope/195675;LMELIDGISLGLILL;Linear peptide;1245;1259;
+195762;http://www.iedb.org/epitope/195762;MLRHTIENTSANLSL;Linear peptide;2290;2304;
+195773;http://www.iedb.org/epitope/195773;MWKQITNELNYVLWE;Linear peptide;841;855;
+195821;http://www.iedb.org/epitope/195821;NTTIAVSTANIFRGS;Linear peptide;2453;2467;
+195920;http://www.iedb.org/epitope/195920;RVWIEDNPNMTDKTP;Linear peptide;3303;3317;
+195950;http://www.iedb.org/epitope/195950;SGSPIINRKGKVIGL;Linear peptide;1609;1623;
+195999;http://www.iedb.org/epitope/195999;SSTPLAENTNSVTNI;Linear peptide;632;646;
+196011;http://www.iedb.org/epitope/196011;STRVPNYNLIVMDEA;Linear peptide;1746;1760;
+196110;http://www.iedb.org/epitope/196110;VESWILRNPGFALLA;Linear peptide;236;250;
+23250;http://www.iedb.org/epitope/23250;GWGNGCGLF;Linear peptide;379;387;
+133702;http://www.iedb.org/epitope/133702;SRNSTHEMY;Linear peptide;2698;2706;
+180653;http://www.iedb.org/epitope/180653;MIDKTPVHSW;Linear peptide;3312;3321;
+180683;http://www.iedb.org/epitope/180683;NPNMIDKTPV;Linear peptide;3309;3318;
+182791;http://www.iedb.org/epitope/182791;DTAGWDTRI;Linear peptide;3021;3029;
+185382;http://www.iedb.org/epitope/185382;RGWGNGCGLF;Linear peptide;378;387;
+186069;http://www.iedb.org/epitope/186069;TSNHGVTATI;Linear peptide;434;443;
+186148;http://www.iedb.org/epitope/186148;TVMAFHLSTR;Linear peptide;110;119;
+186315;http://www.iedb.org/epitope/186315;VMAFHLSTR;Linear peptide;111;119;
+186429;http://www.iedb.org/epitope/186429;VWIEDNPNMI;Linear peptide;3304;3313;
+195922;http://www.iedb.org/epitope/195922;RWGQLKKTKAIKILT;Linear peptide;67;81;
+196250;http://www.iedb.org/epitope/196250;YVILAILTIIGLVAA;Linear peptide;2228;2242;The epitope is within NS4B.
+539829;http://www.iedb.org/epitope/539829;QYQFQPESPARLASA;Linear peptide;805;819;
+540057;http://www.iedb.org/epitope/540057;VLMMLVAPSYGMRCI;Linear peptide;269;283;The epitope is within the M protein.
+22868;http://www.iedb.org/epitope/22868;GTTVVKVKY;Linear peptide;597;605;
+62616;http://www.iedb.org/epitope/62616;SYKDREWCF;Linear peptide;2030;2038;
+65567;http://www.iedb.org/epitope/65567;TPFGQQRVF;Linear peptide;2834;2842;
+66800;http://www.iedb.org/epitope/66800;TTRHRKPTY;Linear peptide;2731;2739;
+69367;http://www.iedb.org/epitope/69367;VLAFITFLR;Linear peptide;46;54;
+133716;http://www.iedb.org/epitope/133716;TLYAVATTI;Linear peptide;2278;2286;
+136891;http://www.iedb.org/epitope/136891;TYQNKVVKVL;Linear peptide;3059;3068;
+150184;http://www.iedb.org/epitope/150184;ELMRRGDLPV;Linear peptide;2009;2018;
+150207;http://www.iedb.org/epitope/150207;FLEFEALGFL;Linear peptide;2970;2979;
+150213;http://www.iedb.org/epitope/150213;FLMVLLIPEP;Linear peptide;2206;2215;
+150244;http://www.iedb.org/epitope/150244;GLNTFTNMEV;Linear peptide;3095;3104;
+150271;http://www.iedb.org/epitope/150271;GVFHTMWHV;Linear peptide;1518;1526;
+150291;http://www.iedb.org/epitope/150291;IILEFFLMV;Linear peptide;2201;2209;
+150292;http://www.iedb.org/epitope/150292;IILEFFLMVL;Linear peptide;2201;2210;
+150338;http://www.iedb.org/epitope/150338;KLLTKPWDV;Linear peptide;2813;2821;
+150344;http://www.iedb.org/epitope/150344;KQLGQVMLLV;Linear peptide;2405;2414;
+150350;http://www.iedb.org/epitope/150350;KVLNPYMPTV;Linear peptide;2668;2677;
+150459;http://www.iedb.org/epitope/150459;MTDTTPFGQ;Linear peptide;2830;2838;
+150566;http://www.iedb.org/epitope/150566;SIILEFFLMV;Linear peptide;2200;2209;
+150662;http://www.iedb.org/epitope/150662;TTDISEMGA;Linear peptide;1881;1889;
+150724;http://www.iedb.org/epitope/150724;WLVHKQWFL;Linear peptide;485;493;
+180371;http://www.iedb.org/epitope/180371;APFESEGVL;Linear peptide;3379;3387;
+180411;http://www.iedb.org/epitope/180411;DTTPFGQQR;Linear peptide;2832;2840;
+180432;http://www.iedb.org/epitope/180432;EPDYEVDEDI;Linear peptide;1647;1656;
+180436;http://www.iedb.org/epitope/180436;EPISYDPKF;Linear peptide;2395;2403;
+180441;http://www.iedb.org/epitope/180441;ESSSNPTIEE;Linear peptide;2636;2645;
+180458;http://www.iedb.org/epitope/180458;FMKDGRSLVV;Linear peptide;3205;3214;
+180470;http://www.iedb.org/epitope/180470;GASKRSWPLN;Linear peptide;1340;1349;
+180493;http://www.iedb.org/epitope/180493;GSRAIWYMW;Linear peptide;2957;2965;
+180494;http://www.iedb.org/epitope/180494;GSSKIRWIVE;Linear peptide;2545;2554;
+180515;http://www.iedb.org/epitope/180515;IAVSTANIF;Linear peptide;2456;2464;
+180530;http://www.iedb.org/epitope/180530;IPKAYAGPF;Linear peptide;1017;1025;
+180545;http://www.iedb.org/epitope/180545;IVIGVGDSAL;Linear peptide;657;666;
+180561;http://www.iedb.org/epitope/180561;KGSRAIWYMW;Linear peptide;2956;2965;
+180580;http://www.iedb.org/epitope/180580;KTDFGFYQV;Linear peptide;2252;2260;
+180595;http://www.iedb.org/epitope/180595;LETLMLVAL;Linear peptide;2144;2152;
+180614;http://www.iedb.org/epitope/180614;LPESLETLM;Linear peptide;2140;2148;
+180642;http://www.iedb.org/epitope/180642;MAMTCIAVG;Linear peptide;754;762;
+180649;http://www.iedb.org/epitope/180649;MEGVFHTMWH;Linear peptide;1516;1525;
+180666;http://www.iedb.org/epitope/180666;MPLVMAWRTI;Linear peptide;1284;1293;
+180669;http://www.iedb.org/epitope/180669;MPVMKRYSAP;Linear peptide;3371;3380;
+180673;http://www.iedb.org/epitope/180673;MSSEGAWKHA;Linear peptide;224;233;
+180676;http://www.iedb.org/epitope/180676;MSYTMCSGK;Linear peptide;576;584;
+180688;http://www.iedb.org/epitope/180688;NQLIYVILTI;Linear peptide;2224;2233;
+180701;http://www.iedb.org/epitope/180701;QEGAMHSAL;Linear peptide;535;543;
+180703;http://www.iedb.org/epitope/180703;QENPYRTWAY;Linear peptide;2783;2792;
+180714;http://www.iedb.org/epitope/180714;RAKGSRAIW;Linear peptide;2954;2962;
+180719;http://www.iedb.org/epitope/180719;REIPERSWNT;Linear peptide;1811;1820;
+180722;http://www.iedb.org/epitope/180722;REWCFTGERN;Linear peptide;2034;2043;
+180729;http://www.iedb.org/epitope/180729;RPTPKGAVM;Linear peptide;3069;3077;
+180759;http://www.iedb.org/epitope/180759;SWMVRILIGF;Linear peptide;731;740;
+180765;http://www.iedb.org/epitope/180765;TFKVPHAKR;Linear peptide;518;526;
+180776;http://www.iedb.org/epitope/180776;TPEAKNSTF;Linear peptide;899;907;
+180779;http://www.iedb.org/epitope/180779;TPKGAVMDII;Linear peptide;3071;3080;
+180784;http://www.iedb.org/epitope/180784;TPVHSWEDI;Linear peptide;3316;3324;
+180793;http://www.iedb.org/epitope/180793;VASGLLWVAE;Linear peptide;2182;2191;
+180823;http://www.iedb.org/epitope/180823;WVAEIQPQW;Linear peptide;2188;2196;
+180840;http://www.iedb.org/epitope/180840;YKVASAGISY;Linear peptide;2022;2031;
+180842;http://www.iedb.org/epitope/180842;YPKTKLTDW;Linear peptide;1868;1876;
+180846;http://www.iedb.org/epitope/180846;YQNKVVKVLR;Linear peptide;3060;3069;
+182427;http://www.iedb.org/epitope/182427;AANEMGLIEK;Linear peptide;2241;2250;
+182428;http://www.iedb.org/epitope/182428;AAQRRGRIGR;Linear peptide;1928;1937;
+182440;http://www.iedb.org/epitope/182440;ADTGCAVSW;Linear peptide;774;782;
+182446;http://www.iedb.org/epitope/182446;AEGVITQDDM;Linear peptide;3112;3121;
+182452;http://www.iedb.org/epitope/182452;AEIQPQWIA;Linear peptide;2190;2198;
+182453;http://www.iedb.org/epitope/182453;AEIQPQWIAA;Linear peptide;2190;2199;
+182477;http://www.iedb.org/epitope/182477;AERTGEPDY;Linear peptide;1642;1650;
+182480;http://www.iedb.org/epitope/182480;AETQHGTTV;Linear peptide;592;600;
+182485;http://www.iedb.org/epitope/182485;AETWMSSEG;Linear peptide;220;228;
+182487;http://www.iedb.org/epitope/182487;AEYTNSVTNI;Linear peptide;637;646;
+182491;http://www.iedb.org/epitope/182491;AGADTSEVHW;Linear peptide;501;510;
+182493;http://www.iedb.org/epitope/182493;AGGLLLAAY;Linear peptide;1378;1386;
+182497;http://www.iedb.org/epitope/182497;AGILKRWGQL;Linear peptide;62;71;
+182498;http://www.iedb.org/epitope/182498;AGISYKDREW;Linear peptide;2027;2036;
+182502;http://www.iedb.org/epitope/182502;AGPFSQHNY;Linear peptide;1022;1030;
+182510;http://www.iedb.org/epitope/182510;AICSAVPTEW;Linear peptide;3266;3275;
+182517;http://www.iedb.org/epitope/182517;AIKILTGFR;Linear peptide;76;84;
+182518;http://www.iedb.org/epitope/182518;AIKILTGFRK;Linear peptide;76;85;
+182535;http://www.iedb.org/epitope/182535;ALAPPVNDLK;Linear peptide;877;886;
+182546;http://www.iedb.org/epitope/182546;ALITVSGLY;Linear peptide;1446;1454;
+182550;http://www.iedb.org/epitope/182550;ALKRRLRTL;Linear peptide;1685;1693;
+182551;http://www.iedb.org/epitope/182551;ALLAGFMAY;Linear peptide;247;255;
+182552;http://www.iedb.org/epitope/182552;ALLAGFMAYM;Linear peptide;247;256;
+182556;http://www.iedb.org/epitope/182556;ALLGAMTAGI;Linear peptide;2151;2160;
+182557;http://www.iedb.org/epitope/182557;ALLGKKKNPR;Linear peptide;2870;2879;
+182559;http://www.iedb.org/epitope/182559;ALMVIGMAM;Linear peptide;1227;1235;
+182561;http://www.iedb.org/epitope/182561;ALNELPESL;Linear peptide;2136;2144;
+182567;http://www.iedb.org/epitope/182567;ALTLHWFRK;Linear peptide;665;673;
+182569;http://www.iedb.org/epitope/182569;ALWDVPSPA;Linear peptide;1477;1485;
+182570;http://www.iedb.org/epitope/182570;AMAFHLSTR;Linear peptide;111;119;
+182577;http://www.iedb.org/epitope/182577;AMHSALTGA;Linear peptide;538;546;
+182582;http://www.iedb.org/epitope/182582;AMTAGIFLF;Linear peptide;2155;2163;
+182583;http://www.iedb.org/epitope/182583;AMTAGIFLFF;Linear peptide;2155;2164;
+182587;http://www.iedb.org/epitope/182587;APHHKILAKA;Linear peptide;3045;3054;
+182591;http://www.iedb.org/epitope/182591;APSTGSASSM;Linear peptide;2798;2807;
+182592;http://www.iedb.org/epitope/182592;APSYGMRCV;Linear peptide;275;283;
+182593;http://www.iedb.org/epitope/182593;APSYGMRCVG;Linear peptide;275;284;
+182594;http://www.iedb.org/epitope/182594;AQGKPTLDF;Linear peptide;314;322;
+182610;http://www.iedb.org/epitope/182610;ASGKLVTQW;Linear peptide;1077;1085;
+182611;http://www.iedb.org/epitope/182611;ASLPTYLSSR;Linear peptide;2103;2112;
+182612;http://www.iedb.org/epitope/182612;ASLVMLLVHY;Linear peptide;2348;2357;
+182613;http://www.iedb.org/epitope/182613;ASMAICSAV;Linear peptide;3263;3271;
+182627;http://www.iedb.org/epitope/182627;ATLKNVTEVK;Linear peptide;2579;2588;
+182632;http://www.iedb.org/epitope/182632;ATLTEGVYR;Linear peptide;1490;1498;
+182643;http://www.iedb.org/epitope/182643;ATTILTPMLR;Linear peptide;2283;2292;
+182647;http://www.iedb.org/epitope/182647;AVASGLLWV;Linear peptide;2181;2189;
+182649;http://www.iedb.org/epitope/182649;AVFKMSPGY;Linear peptide;1204;1212;
+182650;http://www.iedb.org/epitope/182650;AVFKMSPGYV;Linear peptide;1204;1213;
+182651;http://www.iedb.org/epitope/182651;AVFQEEQGW;Linear peptide;2898;2906;
+182654;http://www.iedb.org/epitope/182654;AVHQVFGSVY;Linear peptide;714;723;
+182658;http://www.iedb.org/epitope/182658;AVLFVVTLI;Linear peptide;1295;1303;
+182663;http://www.iedb.org/epitope/182663;AVMDIISRK;Linear peptide;3075;3083;
+182669;http://www.iedb.org/epitope/182669;AVSTANIFR;Linear peptide;2457;2465;
+182670;http://www.iedb.org/epitope/182670;AVSWSGKELK;Linear peptide;779;788;
+182677;http://www.iedb.org/epitope/182677;AWNFLEVEDY;Linear peptide;923;932;
+182682;http://www.iedb.org/epitope/182682;AWRTIMAVLF;Linear peptide;1289;1298;
+182685;http://www.iedb.org/epitope/182685;AYMIGQTGI;Linear peptide;254;262;
+182686;http://www.iedb.org/epitope/182686;AYQHALNEL;Linear peptide;2132;2140;
+182691;http://www.iedb.org/epitope/182691;CAIILGGLTW;Linear peptide;1167;1176;
+182692;http://www.iedb.org/epitope/182692;CEPRSGIDF;Linear peptide;464;472;
+182693;http://www.iedb.org/epitope/182693;CESCVYNMM;Linear peptide;2934;2942;
+182705;http://www.iedb.org/epitope/182705;CLRRRVTRK;Linear peptide;1148;1156;
+182706;http://www.iedb.org/epitope/182706;CNLTSAWVMY;Linear peptide;181;190;
+182711;http://www.iedb.org/epitope/182711;CPLLVNTEPE;Linear peptide;166;175;
+182712;http://www.iedb.org/epitope/182712;CPNERRAWNF;Linear peptide;917;926;
+182714;http://www.iedb.org/epitope/182714;CPTQGEPYL;Linear peptide;353;361;
+182716;http://www.iedb.org/epitope/182716;CRSCTMPPLR;Linear peptide;1087;1096;
+182729;http://www.iedb.org/epitope/182729;CTREEFISK;Linear peptide;2881;2889;
+182743;http://www.iedb.org/epitope/182743;CVYNMMGKR;Linear peptide;2937;2945;
+182754;http://www.iedb.org/epitope/182754;DEAHFTDPSS;Linear peptide;1758;1767;
+182763;http://www.iedb.org/epitope/182763;DFKEFASGR;Linear peptide;2083;2091;
+182776;http://www.iedb.org/epitope/182776;DLMEFIDGI;Linear peptide;1244;1252;
+182778;http://www.iedb.org/epitope/182778;DMISYGGGWR;Linear peptide;1549;1558;
+182781;http://www.iedb.org/epitope/182781;DPFPQSNSPI;Linear peptide;1797;1806;
+182787;http://www.iedb.org/epitope/182787;DSALTLHWFR;Linear peptide;663;672;
+182808;http://www.iedb.org/epitope/182808;DTSECPNER;Linear peptide;913;921;
+182809;http://www.iedb.org/epitope/182809;DTSECPNERR;Linear peptide;913;922;
+182810;http://www.iedb.org/epitope/182810;DTSEVHWNY;Linear peptide;504;512;
+182811;http://www.iedb.org/epitope/182811;DTSEVHWNYK;Linear peptide;504;513;
+182824;http://www.iedb.org/epitope/182824;DVIPMVTQL;Linear peptide;2820;2828;
+182827;http://www.iedb.org/epitope/182827;DVPSPAAAQK;Linear peptide;1480;1489;
+182828;http://www.iedb.org/epitope/182828;DVRNDMISY;Linear peptide;1545;1553;
+182834;http://www.iedb.org/epitope/182834;DYEVDEDIFR;Linear peptide;1649;1658;
+182838;http://www.iedb.org/epitope/182838;DYQGKTVWF;Linear peptide;1827;1835;
+182850;http://www.iedb.org/epitope/182850;EASISNITTA;Linear peptide;341;350;
+182858;http://www.iedb.org/epitope/182858;EAVNDSRFW;Linear peptide;2911;2919;
+182859;http://www.iedb.org/epitope/182859;ECLRRRVTR;Linear peptide;1147;1155;
+182869;http://www.iedb.org/epitope/182869;EECLRRRVTR;Linear peptide;1146;1155;
+182878;http://www.iedb.org/epitope/182878;EEHKETWHY;Linear peptide;2773;2781;
+182902;http://www.iedb.org/epitope/182902;EETNMITLLV;Linear peptide;1434;1443;
+182906;http://www.iedb.org/epitope/182906;EEYKRSGIL;Linear peptide;2513;2521;
+182908;http://www.iedb.org/epitope/182908;EEYVDYMPV;Linear peptide;3365;3373;
+182909;http://www.iedb.org/epitope/182909;EEYVDYMPVM;Linear peptide;3365;3374;
+182910;http://www.iedb.org/epitope/182910;EFCIKVLNPY;Linear peptide;2664;2673;
+182915;http://www.iedb.org/epitope/182915;EFGRAKGSR;Linear peptide;2951;2959;
+182916;http://www.iedb.org/epitope/182916;EFIDGISLGL;Linear peptide;1247;1256;
+182921;http://www.iedb.org/epitope/182921;EGAWKHAQR;Linear peptide;227;235;
+182923;http://www.iedb.org/epitope/182923;EGVYRIMQR;Linear peptide;1494;1502;
+182940;http://www.iedb.org/epitope/182940;EKLRIKGMSY;Linear peptide;569;578;
+182944;http://www.iedb.org/epitope/182944;EKTKTDFGFY;Linear peptide;2249;2258;
+182949;http://www.iedb.org/epitope/182949;EKWKRQLNSL;Linear peptide;2498;2507;
+182954;http://www.iedb.org/epitope/182954;ELEPPFGDSY;Linear peptide;647;656;
+182967;http://www.iedb.org/epitope/182967;ELTLDCEPR;Linear peptide;459;467;
+182975;http://www.iedb.org/epitope/182975;EMGANFRAGR;Linear peptide;1886;1895;
+182977;http://www.iedb.org/epitope/182977;EMILMKMKK;Linear peptide;474;482;
+182979;http://www.iedb.org/epitope/182979;ENMEVEIWTR;Linear peptide;2049;2058;
+182982;http://www.iedb.org/epitope/182982;ENPYRTWAY;Linear peptide;2784;2792;
+183000;http://www.iedb.org/epitope/183000;EPSKGWKNW;Linear peptide;3183;3191;
+183006;http://www.iedb.org/epitope/183006;EPWLSSKPEF;Linear peptide;2656;2665;
+183008;http://www.iedb.org/epitope/183008;EQMAPHHKIL;Linear peptide;3042;3051;
+183011;http://www.iedb.org/epitope/183011;ERNRVSTPQG;Linear peptide;18;27;
+183014;http://www.iedb.org/epitope/183014;ERSWNTGFDW;Linear peptide;1815;1824;
+183024;http://www.iedb.org/epitope/183024;ESLETLMLV;Linear peptide;2142;2150;
+183026;http://www.iedb.org/epitope/183026;ESPARLASAI;Linear peptide;811;820;
+183028;http://www.iedb.org/epitope/183028;ESQMLIPKAY;Linear peptide;1012;1021;
+183032;http://www.iedb.org/epitope/183032;ESSKNQTWQI;Linear peptide;977;986;
+183035;http://www.iedb.org/epitope/183035;ESTYRGAKR;Linear peptide;682;690;
+183039;http://www.iedb.org/epitope/183039;ESWILRNPGF;Linear peptide;237;246;
+183041;http://www.iedb.org/epitope/183041;ETALMVIGM;Linear peptide;1225;1233;
+183042;http://www.iedb.org/epitope/183042;ETALMVIGMA;Linear peptide;1225;1234;
+183043;http://www.iedb.org/epitope/183043;ETAWDFGSV;Linear peptide;696;704;
+183044;http://www.iedb.org/epitope/183044;ETAWDFGSVG;Linear peptide;696;705;
+183049;http://www.iedb.org/epitope/183049;ETFSMGLLCL;Linear peptide;1132;1141;
+183063;http://www.iedb.org/epitope/183063;ETLMLVALL;Linear peptide;2145;2153;
+183067;http://www.iedb.org/epitope/183067;ETNMITLLV;Linear peptide;1435;1443;
+183068;http://www.iedb.org/epitope/183068;ETNMITLLVK;Linear peptide;1435;1444;
+183075;http://www.iedb.org/epitope/183075;ETQHGTTVV;Linear peptide;593;601;
+183077;http://www.iedb.org/epitope/183077;ETRAETWMSS;Linear peptide;217;226;
+183079;http://www.iedb.org/epitope/183079;ETTILDVDLR;Linear peptide;2263;2272;
+183094;http://www.iedb.org/epitope/183094;EVALLRTYCI;Linear peptide;331;340;
+183100;http://www.iedb.org/epitope/183100;EVEDYGFGM;Linear peptide;928;936;
+183101;http://www.iedb.org/epitope/183101;EVEDYGFGMF;Linear peptide;928;937;
+183106;http://www.iedb.org/epitope/183106;EVHWNYKER;Linear peptide;507;515;
+183108;http://www.iedb.org/epitope/183108;EVKQDEDGSF;Linear peptide;1419;1428;
+183113;http://www.iedb.org/epitope/183113;EVKTCLWPK;Linear peptide;993;1001;
+183117;http://www.iedb.org/epitope/183117;EVLTLATGPV;Linear peptide;2431;2440;
+183127;http://www.iedb.org/epitope/183127;EWFPTSRTTW;Linear peptide;3274;3283;
+183130;http://www.iedb.org/epitope/183130;EYPKTKLTDW;Linear peptide;1867;1876;
+183141;http://www.iedb.org/epitope/183141;FALLAGFMAY;Linear peptide;246;255;
+183152;http://www.iedb.org/epitope/183152;FEEYKRSGI;Linear peptide;2512;2520;
+183153;http://www.iedb.org/epitope/183153;FEEYKRSGIL;Linear peptide;2512;2521;
+183169;http://www.iedb.org/epitope/183169;FGMFTTNIW;Linear peptide;934;942;
+183178;http://www.iedb.org/epitope/183178;FIDGISLGL;Linear peptide;1248;1256;
+183180;http://www.iedb.org/epitope/183180;FIRSTMPLV;Linear peptide;1279;1287;
+183181;http://www.iedb.org/epitope/183181;FIRSTMPLVM;Linear peptide;1279;1288;
+183196;http://www.iedb.org/epitope/183196;FLDLPLPWA;Linear peptide;492;500;
+183197;http://www.iedb.org/epitope/183197;FLDLPLPWAA;Linear peptide;492;501;
+183199;http://www.iedb.org/epitope/183199;FLFFMQGKGI;Linear peptide;2161;2170;
+183200;http://www.iedb.org/epitope/183200;FLGEDGCWY;Linear peptide;1097;1105;
+183201;http://www.iedb.org/epitope/183201;FLGEDGCWYG;Linear peptide;1097;1106;
+183204;http://www.iedb.org/epitope/183204;FLNEDHWFGR;Linear peptide;2978;2987;
+183211;http://www.iedb.org/epitope/183211;FMAYMIGQT;Linear peptide;252;260;
+183212;http://www.iedb.org/epitope/183212;FMKDGRSLV;Linear peptide;3205;3213;
+183216;http://www.iedb.org/epitope/183216;FMTATPPGA;Linear peptide;1787;1795;
+183217;http://www.iedb.org/epitope/183217;FMTATPPGAT;Linear peptide;1787;1796;
+183230;http://www.iedb.org/epitope/183230;FPQSNSPIE;Linear peptide;1799;1807;
+183232;http://www.iedb.org/epitope/183232;FPTSRTTWSI;Linear peptide;3276;3285;
+183238;http://www.iedb.org/epitope/183238;FQPESPARL;Linear peptide;808;816;
+183253;http://www.iedb.org/epitope/183253;FSMGLLCLTL;Linear peptide;1134;1143;
+183255;http://www.iedb.org/epitope/183255;FSQHNYRQGY;Linear peptide;1025;1034;
+183262;http://www.iedb.org/epitope/183262;FTDPSSVAA;Linear peptide;1762;1770;
+183263;http://www.iedb.org/epitope/183263;FTDPSSVAAR;Linear peptide;1762;1771;
+183278;http://www.iedb.org/epitope/183278;FTPEAKNSTF;Linear peptide;898;907;
+183286;http://www.iedb.org/epitope/183286;FTTNIWMKFR;Linear peptide;937;946;
+183287;http://www.iedb.org/epitope/183287;FTTRHRKPTY;Linear peptide;2730;2739;
+183288;http://www.iedb.org/epitope/183288;FTTRLLSSTR;Linear peptide;1739;1748;
+183289;http://www.iedb.org/epitope/183289;FTVHADTGCA;Linear peptide;770;779;
+183296;http://www.iedb.org/epitope/183296;FVEGVSGGAW;Linear peptide;290;299;
+183301;http://www.iedb.org/epitope/183301;FVIDNVHTW;Linear peptide;794;802;
+183305;http://www.iedb.org/epitope/183305;FVVTLIPLCR;Linear peptide;1298;1307;
+183309;http://www.iedb.org/epitope/183309;FYQVKTETTI;Linear peptide;2257;2266;
+183311;http://www.iedb.org/epitope/183311;GADTSEVHW;Linear peptide;502;510;
+183313;http://www.iedb.org/epitope/183313;GAMTAGIFLF;Linear peptide;2154;2163;
+183316;http://www.iedb.org/epitope/183316;GASKRSWPL;Linear peptide;1340;1348;
+183322;http://www.iedb.org/epitope/183322;GAVFQEEQGW;Linear peptide;2897;2906;
+183327;http://www.iedb.org/epitope/183327;GDSALTLHW;Linear peptide;662;670;
+183333;http://www.iedb.org/epitope/183333;GEGLHRLGY;Linear peptide;2996;3004;
+183342;http://www.iedb.org/epitope/183342;GEKKKLRPKW;Linear peptide;2060;2069;
+183346;http://www.iedb.org/epitope/183346;GEMCEDTVTY;Linear peptide;155;164;
+183354;http://www.iedb.org/epitope/183354;GETAWDFGSV;Linear peptide;695;704;
+183372;http://www.iedb.org/epitope/183372;GGSLVRCPLS;Linear peptide;2689;2698;
+183378;http://www.iedb.org/epitope/183378;GIFLFFMQGK;Linear peptide;2159;2168;
+183387;http://www.iedb.org/epitope/183387;GIMAVGLVSL;Linear peptide;1351;1360;
+183390;http://www.iedb.org/epitope/183390;GISLGLILLK;Linear peptide;1251;1260;
+183404;http://www.iedb.org/epitope/183404;GLFGKGGVV;Linear peptide;385;393;
+183408;http://www.iedb.org/epitope/183408;GLFKTLTGEI;Linear peptide;1588;1597;
+183414;http://www.iedb.org/epitope/183414;GLLCLTLFV;Linear peptide;1137;1145;
+183422;http://www.iedb.org/epitope/183422;GLSSRATWA;Linear peptide;3340;3348;
+183423;http://www.iedb.org/epitope/183423;GLSSRATWAK;Linear peptide;3340;3349;
+183425;http://www.iedb.org/epitope/183425;GLVSLLGSA;Linear peptide;1356;1364;
+183428;http://www.iedb.org/epitope/183428;GLYPLAIPV;Linear peptide;1452;1460;
+183430;http://www.iedb.org/epitope/183430;GMAMTTVLSI;Linear peptide;1232;1241;
+183432;http://www.iedb.org/epitope/183432;GMFTTNIWMK;Linear peptide;935;944;
+183440;http://www.iedb.org/epitope/183440;GMSYTMCSGK;Linear peptide;575;584;
+183449;http://www.iedb.org/epitope/183449;GPLRMVLAF;Linear peptide;41;49;
+183455;http://www.iedb.org/epitope/183455;GPMVAGGLL;Linear peptide;1374;1382;
+183456;http://www.iedb.org/epitope/183456;GPMVAGGLLL;Linear peptide;1374;1383;
+183458;http://www.iedb.org/epitope/183458;GPVLTLWEGN;Linear peptide;2438;2447;
+183459;http://www.iedb.org/epitope/183459;GPWHLGKLEI;Linear peptide;1040;1049;
+183462;http://www.iedb.org/epitope/183462;GQIHLAIMAV;Linear peptide;1196;1205;
+183465;http://www.iedb.org/epitope/183465;GQTGIQRTVF;Linear peptide;258;267;
+183467;http://www.iedb.org/epitope/183467;GRIISSTPFA;Linear peptide;628;637;
+183484;http://www.iedb.org/epitope/183484;GSSPIIEVK;Linear peptide;1413;1421;
+183499;http://www.iedb.org/epitope/183499;GTLALSLTF;Linear peptide;1271;1279;
+183526;http://www.iedb.org/epitope/183526;GVPLLAMGCY;Linear peptide;2329;2338;
+183530;http://www.iedb.org/epitope/183530;GVSGNIVSSV;Linear peptide;2710;2719;
+183532;http://www.iedb.org/epitope/183532;GVTATITPR;Linear peptide;438;446;
+183537;http://www.iedb.org/epitope/183537;GVVTKSGDY;Linear peptide;1627;1635;
+183547;http://www.iedb.org/epitope/183547;GWKNWQEVPF;Linear peptide;3187;3196;
+183550;http://www.iedb.org/epitope/183550;GYATQTVGPW;Linear peptide;1033;1042;
+183554;http://www.iedb.org/epitope/183554;GYVLGIFLR;Linear peptide;1211;1219;
+183560;http://www.iedb.org/epitope/183560;HALNELPESL;Linear peptide;2135;2144;
+183562;http://www.iedb.org/epitope/183562;HAQRVESWIL;Linear peptide;232;241;
+183571;http://www.iedb.org/epitope/183571;HERGRPLLF;Linear peptide;130;138;
+183572;http://www.iedb.org/epitope/183572;HETGRLEPSW;Linear peptide;1534;1543;
+183579;http://www.iedb.org/epitope/183579;HLAIMAVFK;Linear peptide;1199;1207;
+183581;http://www.iedb.org/epitope/183581;HLKCKVRMEK;Linear peptide;561;570;
+183584;http://www.iedb.org/epitope/183584;HMEGVFHTMW;Linear peptide;1515;1524;
+183585;http://www.iedb.org/epitope/183585;HMFAGHLKCK;Linear peptide;556;565;
+183590;http://www.iedb.org/epitope/183590;HMILVVVTTL;Linear peptide;1157;1166;
+183602;http://www.iedb.org/epitope/183602;HRRDLRLASM;Linear peptide;3256;3265;
+183603;http://www.iedb.org/epitope/183603;HSGVDVFYK;Linear peptide;2614;2622;
+183607;http://www.iedb.org/epitope/183607;HTAITQVRNL;Linear peptide;3352;3361;
+183610;http://www.iedb.org/epitope/183610;HTIENTSAN;Linear peptide;2293;2301;
+183611;http://www.iedb.org/epitope/183611;HTIENTSANL;Linear peptide;2293;2302;
+183616;http://www.iedb.org/epitope/183616;HTTERGGKAY;Linear peptide;2124;2133;
+183622;http://www.iedb.org/epitope/183622;HVQTKPGLFK;Linear peptide;1582;1591;
+183630;http://www.iedb.org/epitope/183630;HWVEITALI;Linear peptide;1316;1324;
+183633;http://www.iedb.org/epitope/183633;IAANEMGLI;Linear peptide;2240;2248;
+183644;http://www.iedb.org/epitope/183644;IANQAAVLM;Linear peptide;2307;2315;
+183648;http://www.iedb.org/epitope/183648;IASLVMLLVH;Linear peptide;2347;2356;
+183651;http://www.iedb.org/epitope/183651;IAVASGLLWV;Linear peptide;2180;2189;
+183652;http://www.iedb.org/epitope/183652;IAVGGITLF;Linear peptide;759;767;
+183656;http://www.iedb.org/epitope/183656;IAVSTANIFR;Linear peptide;2456;2465;
+183657;http://www.iedb.org/epitope/183657;ICSAVPTEW;Linear peptide;3267;3275;
+183663;http://www.iedb.org/epitope/183663;IEETNMITL;Linear peptide;1433;1441;
+183664;http://www.iedb.org/epitope/183664;IEETNMITLL;Linear peptide;1433;1442;
+183668;http://www.iedb.org/epitope/183668;IEKTKTDFGF;Linear peptide;2248;2257;
+183669;http://www.iedb.org/epitope/183669;IENLEYTVVV;Linear peptide;411;420;
+183676;http://www.iedb.org/epitope/183676;IEREIPERSW;Linear peptide;1809;1818;
+183680;http://www.iedb.org/epitope/183680;IESSKNQTW;Linear peptide;976;984;
+183692;http://www.iedb.org/epitope/183692;IFLRKLTSR;Linear peptide;1216;1224;
+183696;http://www.iedb.org/epitope/183696;IFVIDNVHTW;Linear peptide;793;802;
+183704;http://www.iedb.org/epitope/183704;IGKMLESTY;Linear peptide;677;685;
+183705;http://www.iedb.org/epitope/183705;IGKMLESTYR;Linear peptide;677;686;
+183706;http://www.iedb.org/epitope/183706;IGLSSRATW;Linear peptide;3339;3347;
+183716;http://www.iedb.org/epitope/183716;IHLAIMAVF;Linear peptide;1198;1206;
+183718;http://www.iedb.org/epitope/183718;IIGRRLQRL;Linear peptide;2763;2771;
+183721;http://www.iedb.org/epitope/183721;IISSTPFAEY;Linear peptide;630;639;
+183727;http://www.iedb.org/epitope/183727;IKTTAKEVAL;Linear peptide;325;334;
+183733;http://www.iedb.org/epitope/183733;ILAKAIFKL;Linear peptide;3050;3058;
+183743;http://www.iedb.org/epitope/183743;ILGAQALPV;Linear peptide;1324;1332;
+183744;http://www.iedb.org/epitope/183744;ILGAQALPVY;Linear peptide;1324;1333;
+183745;http://www.iedb.org/epitope/183745;ILIGFLVLW;Linear peptide;736;744;
+183746;http://www.iedb.org/epitope/183746;ILIGFLVLWI;Linear peptide;736;745;
+183751;http://www.iedb.org/epitope/183751;ILKRWGQLK;Linear peptide;64;72;
+183752;http://www.iedb.org/epitope/183752;ILKRWGQLKK;Linear peptide;64;73;
+183758;http://www.iedb.org/epitope/183758;ILLKMVTHF;Linear peptide;1257;1265;
+183762;http://www.iedb.org/epitope/183762;ILNAHEDGV;Linear peptide;820;828;
+183769;http://www.iedb.org/epitope/183769;ILTILTIIGL;Linear peptide;2230;2239;
+183778;http://www.iedb.org/epitope/183778;IMAVGLVSLL;Linear peptide;1352;1361;
+183802;http://www.iedb.org/epitope/183802;IMQRGLFGK;Linear peptide;1499;1507;
+183809;http://www.iedb.org/epitope/183809;INRKGKVIGL;Linear peptide;1614;1623;
+183815;http://www.iedb.org/epitope/183815;IPERSWNTGF;Linear peptide;1813;1822;
+183817;http://www.iedb.org/epitope/183817;IPHDLMEFI;Linear peptide;1241;1249;
+183829;http://www.iedb.org/epitope/183829;IPMVTQLAM;Linear peptide;2822;2830;
+183830;http://www.iedb.org/epitope/183830;IPNHGVTAT;Linear peptide;434;442;
+183835;http://www.iedb.org/epitope/183835;IPVTMTLWY;Linear peptide;1458;1466;
+183836;http://www.iedb.org/epitope/183836;IPVTMTLWYM;Linear peptide;1458;1467;
+183837;http://www.iedb.org/epitope/183837;IPVTPASAA;Linear peptide;1921;1929;
+183839;http://www.iedb.org/epitope/183839;IPYLGKREDL;Linear peptide;3324;3333;
+183844;http://www.iedb.org/epitope/183844;IQPQWIAASI;Linear peptide;2192;2201;
+183845;http://www.iedb.org/epitope/183845;IQRTVFFVL;Linear peptide;262;270;
+183853;http://www.iedb.org/epitope/183853;ISKVRSNAA;Linear peptide;2887;2895;
+183854;http://www.iedb.org/epitope/183854;ISLGLILLK;Linear peptide;1252;1260;
+183856;http://www.iedb.org/epitope/183856;ISNITTATR;Linear peptide;344;352;
+183863;http://www.iedb.org/epitope/183863;ISSTPFAEY;Linear peptide;631;639;
+183864;http://www.iedb.org/epitope/183864;ISSTPFAEYT;Linear peptide;631;640;
+183866;http://www.iedb.org/epitope/183866;ISYDPKFEK;Linear peptide;2397;2405;
+183869;http://www.iedb.org/epitope/183869;ISYKDREWCF;Linear peptide;2029;2038;
+183880;http://www.iedb.org/epitope/183880;ITFLRVLSI;Linear peptide;50;58;
+183881;http://www.iedb.org/epitope/183881;ITFLRVLSIP;Linear peptide;50;59;
+183884;http://www.iedb.org/epitope/183884;ITLDILTEI;Linear peptide;2094;2102;
+183885;http://www.iedb.org/epitope/183885;ITNELNYVL;Linear peptide;845;853;
+183886;http://www.iedb.org/epitope/183886;ITNELNYVLW;Linear peptide;845;854;
+183889;http://www.iedb.org/epitope/183889;ITPRSPSVEV;Linear peptide;443;452;
+183898;http://www.iedb.org/epitope/183898;ITVIDLEPIS;Linear peptide;2389;2398;
+183899;http://www.iedb.org/epitope/183899;ITVSGLYPL;Linear peptide;1448;1456;
+183900;http://www.iedb.org/epitope/183900;ITVSGLYPLA;Linear peptide;1448;1457;
+183909;http://www.iedb.org/epitope/183909;IVMLHTTER;Linear peptide;2120;2128;
+183915;http://www.iedb.org/epitope/183915;IVSSVNTTSK;Linear peptide;2715;2724;
+183927;http://www.iedb.org/epitope/183927;IYADDTAGW;Linear peptide;3017;3025;
+183931;http://www.iedb.org/epitope/183931;IYVILTILTI;Linear peptide;2227;2236;
+183945;http://www.iedb.org/epitope/183945;KAIKILTGF;Linear peptide;75;83;
+183946;http://www.iedb.org/epitope/183946;KAIKILTGFR;Linear peptide;75;84;
+183950;http://www.iedb.org/epitope/183950;KAKIFTPEA;Linear peptide;894;902;
+183965;http://www.iedb.org/epitope/183965;KATLTEGVY;Linear peptide;1489;1497;
+183966;http://www.iedb.org/epitope/183966;KATLTEGVYR;Linear peptide;1489;1498;
+183985;http://www.iedb.org/epitope/183985;KEENMVKSQV;Linear peptide;1115;1124;
+183986;http://www.iedb.org/epitope/183986;KEEQDQQYI;Linear peptide;362;370;
+183987;http://www.iedb.org/epitope/183987;KEEYVDYMPV;Linear peptide;3364;3373;
+183990;http://www.iedb.org/epitope/183990;KEFASGRKSI;Linear peptide;2085;2094;
+184004;http://www.iedb.org/epitope/184004;KEKVVGRII;Linear peptide;623;631;
+184007;http://www.iedb.org/epitope/184007;KEMAETQHG;Linear peptide;589;597;
+184011;http://www.iedb.org/epitope/184011;KEVALLRTY;Linear peptide;330;338;
+184012;http://www.iedb.org/epitope/184012;KEVALLRTYC;Linear peptide;330;339;
+184015;http://www.iedb.org/epitope/184015;KFQPESPAR;Linear peptide;807;815;
+184017;http://www.iedb.org/epitope/184017;KFREGSSEV;Linear peptide;944;952;
+184019;http://www.iedb.org/epitope/184019;KGKRALAPPV;Linear peptide;873;882;
+184027;http://www.iedb.org/epitope/184027;KILAKAIFK;Linear peptide;3049;3057;
+184029;http://www.iedb.org/epitope/184029;KITGNLVQI;Linear peptide;403;411;
+184036;http://www.iedb.org/epitope/184036;KKKNPRLCTR;Linear peptide;2874;2883;
+184039;http://www.iedb.org/epitope/184039;KKKTWLVHK;Linear peptide;481;489;
+184043;http://www.iedb.org/epitope/184043;KLALITVSG;Linear peptide;1444;1452;
+184044;http://www.iedb.org/epitope/184044;KLALITVSGL;Linear peptide;1444;1453;
+184055;http://www.iedb.org/epitope/184055;KLHSGVDVF;Linear peptide;2612;2620;
+184056;http://www.iedb.org/epitope/184056;KLHSGVDVFY;Linear peptide;2612;2621;
+184067;http://www.iedb.org/epitope/184067;KLQRKHGGSL;Linear peptide;2683;2692;
+184071;http://www.iedb.org/epitope/184071;KLRIKGMSY;Linear peptide;570;578;
+184072;http://www.iedb.org/epitope/184072;KLRPKWLDA;Linear peptide;2064;2072;
+184073;http://www.iedb.org/epitope/184073;KLRPKWLDAR;Linear peptide;2064;2073;
+184076;http://www.iedb.org/epitope/184076;KLSMGLIAI;Linear peptide;2172;2180;
+184077;http://www.iedb.org/epitope/184077;KLSMGLIAIA;Linear peptide;2172;2181;
+184084;http://www.iedb.org/epitope/184084;KLVTQWCCR;Linear peptide;1080;1088;
+184091;http://www.iedb.org/epitope/184091;KMKKKTWLV;Linear peptide;479;487;
+184092;http://www.iedb.org/epitope/184092;KMLLNRFTTR;Linear peptide;2724;2733;
+184096;http://www.iedb.org/epitope/184096;KMSPGYVLGI;Linear peptide;1207;1216;
+184098;http://www.iedb.org/epitope/184098;KMVEPWLSSK;Linear peptide;2653;2662;
+184105;http://www.iedb.org/epitope/184105;KPEFCIKVL;Linear peptide;2662;2670;
+184108;http://www.iedb.org/epitope/184108;KPKGKVVDL;Linear peptide;2559;2567;
+184120;http://www.iedb.org/epitope/184120;KQITNELNY;Linear peptide;843;851;
+184121;http://www.iedb.org/epitope/184121;KQITNELNYV;Linear peptide;843;852;
+184154;http://www.iedb.org/epitope/184154;KTDFGFYQVK;Linear peptide;2252;2261;
+184157;http://www.iedb.org/epitope/184157;KTFDTEYPK;Linear peptide;1862;1870;
+184158;http://www.iedb.org/epitope/184158;KTHTLWSNG;Linear peptide;1001;1009;
+184162;http://www.iedb.org/epitope/184162;KTKLTDWDF;Linear peptide;1870;1878;
+184165;http://www.iedb.org/epitope/184165;KTKRILPSI;Linear peptide;1673;1681;
+184167;http://www.iedb.org/epitope/184167;KTKTDFGFY;Linear peptide;2250;2258;
+184168;http://www.iedb.org/epitope/184168;KTLTGEIGAV;Linear peptide;1591;1600;
+184178;http://www.iedb.org/epitope/184178;KTQRSGALW;Linear peptide;1471;1479;
+184196;http://www.iedb.org/epitope/184196;KTWGKAKIF;Linear peptide;890;898;
+184200;http://www.iedb.org/epitope/184200;KTWLVHKQW;Linear peptide;483;491;
+184202;http://www.iedb.org/epitope/184202;KVASAGISYK;Linear peptide;2023;2032;
+184207;http://www.iedb.org/epitope/184207;KVIGLYGNGV;Linear peptide;1619;1628;
+184208;http://www.iedb.org/epitope/184208;KVKYEGAGA;Linear peptide;602;610;
+184213;http://www.iedb.org/epitope/184213;KVRMEKLRI;Linear peptide;565;573;
+184233;http://www.iedb.org/epitope/184233;KWKRQLNSL;Linear peptide;2499;2507;
+184235;http://www.iedb.org/epitope/184235;KWLKECGVDR;Linear peptide;3133;3142;
+184242;http://www.iedb.org/epitope/184242;LAFITFLRV;Linear peptide;47;55;
+184245;http://www.iedb.org/epitope/184245;LAGFMAYMI;Linear peptide;249;257;
+184256;http://www.iedb.org/epitope/184256;LAIMAVFKM;Linear peptide;1200;1208;
+184261;http://www.iedb.org/epitope/184261;LAIPVTMTL;Linear peptide;1456;1464;
+184262;http://www.iedb.org/epitope/184262;LAIPVTMTLW;Linear peptide;1456;1465;
+184270;http://www.iedb.org/epitope/184270;LALITVSGLY;Linear peptide;1445;1454;
+184276;http://www.iedb.org/epitope/184276;LALSLTFIR;Linear peptide;1273;1281;
+184278;http://www.iedb.org/epitope/184278;LAMGCYSQV;Linear peptide;2333;2341;
+184281;http://www.iedb.org/epitope/184281;LAMTDTTPF;Linear peptide;2828;2836;
+184286;http://www.iedb.org/epitope/184286;LASAILNAHE;Linear peptide;816;825;
+184290;http://www.iedb.org/epitope/184290;LASMAICSAV;Linear peptide;3262;3271;
+184308;http://www.iedb.org/epitope/184308;LCLIPTAMAF;Linear peptide;105;114;
+184310;http://www.iedb.org/epitope/184310;LCRTSCLQK;Linear peptide;1305;1313;
+184311;http://www.iedb.org/epitope/184311;LDILTEIASL;Linear peptide;2096;2105;
+184317;http://www.iedb.org/epitope/184317;LEENMEVEI;Linear peptide;2047;2055;
+184332;http://www.iedb.org/epitope/184332;LEKAANVQW;Linear peptide;1397;1405;
+184351;http://www.iedb.org/epitope/184351;LETRAETWM;Linear peptide;216;224;
+184354;http://www.iedb.org/epitope/184354;LEYTVVVTV;Linear peptide;414;422;
+184363;http://www.iedb.org/epitope/184363;LFVVTLIPLC;Linear peptide;1297;1306;
+184366;http://www.iedb.org/epitope/184366;LGAQALPVY;Linear peptide;1325;1333;
+184370;http://www.iedb.org/epitope/184370;LGKAVHQVF;Linear peptide;711;719;
+184386;http://www.iedb.org/epitope/184386;LHRMDLGVPL;Linear peptide;2323;2332;
+184387;http://www.iedb.org/epitope/184387;LHSGVDVFY;Linear peptide;2613;2621;
+184389;http://www.iedb.org/epitope/184389;LIASLVMLLV;Linear peptide;2346;2355;
+184393;http://www.iedb.org/epitope/184393;LIGLSSRATW;Linear peptide;3338;3347;
+184399;http://www.iedb.org/epitope/184399;LIKNAQTPR;Linear peptide;2478;2486;
+184400;http://www.iedb.org/epitope/184400;LILGAQALPV;Linear peptide;1323;1332;
+184407;http://www.iedb.org/epitope/184407;LITVSGLYPL;Linear peptide;1447;1456;
+184408;http://www.iedb.org/epitope/184408;LIVMDEAHF;Linear peptide;1754;1762;
+184418;http://www.iedb.org/epitope/184418;LKRRLRTLIL;Linear peptide;1686;1695;
+184419;http://www.iedb.org/epitope/184419;LLAGFMAYM;Linear peptide;248;256;
+184420;http://www.iedb.org/epitope/184420;LLAGFMAYMI;Linear peptide;248;257;
+184425;http://www.iedb.org/epitope/184425;LLAMGCYSQV;Linear peptide;2332;2341;
+184432;http://www.iedb.org/epitope/184432;LLFLNDMGK;Linear peptide;3166;3174;
+184433;http://www.iedb.org/epitope/184433;LLFLNDMGKV;Linear peptide;3166;3175;
+184462;http://www.iedb.org/epitope/184462;LLMRTTWAFC;Linear peptide;2421;2430;
+184466;http://www.iedb.org/epitope/184466;LLNRFTTRHR;Linear peptide;2726;2735;
+184470;http://www.iedb.org/epitope/184470;LLSSTRVPNY;Linear peptide;1743;1752;
+184474;http://www.iedb.org/epitope/184474;LLVKLALITV;Linear peptide;1441;1450;
+184483;http://www.iedb.org/epitope/184483;LMCHATFTTR;Linear peptide;1733;1742;
+184486;http://www.iedb.org/epitope/184486;LMIVARHER;Linear peptide;124;132;
+184488;http://www.iedb.org/epitope/184488;LMKMKKKTW;Linear peptide;477;485;
+184489;http://www.iedb.org/epitope/184489;LMKMKKKTWL;Linear peptide;477;486;
+184494;http://www.iedb.org/epitope/184494;LMLVALLGA;Linear peptide;2147;2155;
+184500;http://www.iedb.org/epitope/184500;LMMLVAPSY;Linear peptide;270;278;
+184510;http://www.iedb.org/epitope/184510;LMTLMKGASK;Linear peptide;1334;1343;
+184517;http://www.iedb.org/epitope/184517;LNGRKRSTM;Linear peptide;94;102;
+184524;http://www.iedb.org/epitope/184524;LPDYGELTL;Linear peptide;454;462;
+184537;http://www.iedb.org/epitope/184537;LPIRYQTPAV;Linear peptide;1712;1721;
+184542;http://www.iedb.org/epitope/184542;LPLPWAAGA;Linear peptide;495;503;
+184543;http://www.iedb.org/epitope/184543;LPLPWAAGAD;Linear peptide;495;504;
+184565;http://www.iedb.org/epitope/184565;LPVYLMTLM;Linear peptide;1330;1338;
+184575;http://www.iedb.org/epitope/184575;LQRKHGGSL;Linear peptide;2684;2692;
+184586;http://www.iedb.org/epitope/184586;LRVLSIPPTA;Linear peptide;53;62;
+184592;http://www.iedb.org/epitope/184592;LSIPPTAGI;Linear peptide;56;64;
+184593;http://www.iedb.org/epitope/184593;LSIPPTAGIL;Linear peptide;56;65;
+184601;http://www.iedb.org/epitope/184601;LSMGLIAIAV;Linear peptide;2173;2182;
+184607;http://www.iedb.org/epitope/184607;LSSRAKLALD;Linear peptide;2109;2118;
+184608;http://www.iedb.org/epitope/184608;LSSRATWAK;Linear peptide;3341;3349;
+184609;http://www.iedb.org/epitope/184609;LSSRATWAKN;Linear peptide;3341;3350;
+184610;http://www.iedb.org/epitope/184610;LSSTRVPNY;Linear peptide;1744;1752;
+184611;http://www.iedb.org/epitope/184611;LSSTRVPNYN;Linear peptide;1744;1753;
+184612;http://www.iedb.org/epitope/184612;LSTRDGEPLM;Linear peptide;116;125;
+184625;http://www.iedb.org/epitope/184625;LTDWDFVVT;Linear peptide;1873;1881;
+184629;http://www.iedb.org/epitope/184629;LTEIASLPT;Linear peptide;2099;2107;
+184630;http://www.iedb.org/epitope/184630;LTEIASLPTY;Linear peptide;2099;2108;
+184632;http://www.iedb.org/epitope/184632;LTFIRSTMPL;Linear peptide;1277;1286;
+184640;http://www.iedb.org/epitope/184640;LTILTIIGLI;Linear peptide;2231;2240;
+184645;http://www.iedb.org/epitope/184645;LTLFVEECLR;Linear peptide;1141;1150;
+184659;http://www.iedb.org/epitope/184659;LTSAWVMYGT;Linear peptide;183;192;
+184667;http://www.iedb.org/epitope/184667;LTSRETALM;Linear peptide;1221;1229;
+184682;http://www.iedb.org/epitope/184682;LVAPSYGMR;Linear peptide;273;281;
+184685;http://www.iedb.org/epitope/184685;LVKRFSTGLF;Linear peptide;28;37;
+184688;http://www.iedb.org/epitope/184688;LVMLLVHYAI;Linear peptide;2350;2359;
+184689;http://www.iedb.org/epitope/184689;LVQIENLEY;Linear peptide;408;416;
+184690;http://www.iedb.org/epitope/184690;LVSLLGSAL;Linear peptide;1357;1365;
+184694;http://www.iedb.org/epitope/184694;LVVVTTLCAI;Linear peptide;1160;1169;
+184702;http://www.iedb.org/epitope/184702;LWPKTHTLW;Linear peptide;998;1006;
+184706;http://www.iedb.org/epitope/184706;LWVAEIQPQW;Linear peptide;2187;2196;
+184715;http://www.iedb.org/epitope/184715;LYPLAIPVTM;Linear peptide;1453;1462;
+184720;http://www.iedb.org/epitope/184720;MAICSAVPT;Linear peptide;3265;3273;
+184725;http://www.iedb.org/epitope/184725;MAILGETAW;Linear peptide;691;699;
+184735;http://www.iedb.org/epitope/184735;MAMTTVLSI;Linear peptide;1233;1241;
+184746;http://www.iedb.org/epitope/184746;MAVFKMSPGY;Linear peptide;1203;1212;
+184750;http://www.iedb.org/epitope/184750;MAVLFVVTL;Linear peptide;1294;1302;
+184751;http://www.iedb.org/epitope/184751;MAVLFVVTLI;Linear peptide;1294;1303;
+184752;http://www.iedb.org/epitope/184752;MAWRTIMAV;Linear peptide;1288;1296;
+184753;http://www.iedb.org/epitope/184753;MAYMIGQTGI;Linear peptide;253;262;
+184754;http://www.iedb.org/epitope/184754;MCHATFTTR;Linear peptide;1734;1742;
+184765;http://www.iedb.org/epitope/184765;MEFIDGISL;Linear peptide;1246;1254;
+184766;http://www.iedb.org/epitope/184766;MEFIDGISLG;Linear peptide;1246;1255;
+184773;http://www.iedb.org/epitope/184773;MEKLRIKGM;Linear peptide;568;576;
+184786;http://www.iedb.org/epitope/184786;MEVEIWTRE;Linear peptide;2051;2059;
+184798;http://www.iedb.org/epitope/184798;MFGGVSWMVR;Linear peptide;726;735;
+184803;http://www.iedb.org/epitope/184803;MFTTNIWMK;Linear peptide;936;944;
+184804;http://www.iedb.org/epitope/184804;MFTTNIWMKF;Linear peptide;936;945;
+184807;http://www.iedb.org/epitope/184807;MGANFRAGR;Linear peptide;1887;1895;
+184815;http://www.iedb.org/epitope/184815;MGLLCLTLF;Linear peptide;1136;1144;
+184818;http://www.iedb.org/epitope/184818;MGYWIESSK;Linear peptide;972;980;
+184829;http://www.iedb.org/epitope/184829;MILMKMKKK;Linear peptide;475;483;
+184834;http://www.iedb.org/epitope/184834;MISYGGGWR;Linear peptide;1550;1558;
+184836;http://www.iedb.org/epitope/184836;MKMKKKTWL;Linear peptide;478;486;
+184850;http://www.iedb.org/epitope/184850;MLLNRFTTR;Linear peptide;2725;2733;
+184852;http://www.iedb.org/epitope/184852;MLLVHYAII;Linear peptide;2352;2360;
+184853;http://www.iedb.org/epitope/184853;MLLVLCAGQL;Linear peptide;2411;2420;
+184857;http://www.iedb.org/epitope/184857;MLNILNGRK;Linear peptide;90;98;
+184858;http://www.iedb.org/epitope/184858;MLNILNGRKR;Linear peptide;90;99;
+184868;http://www.iedb.org/epitope/184868;MLVAPSYGM;Linear peptide;272;280;
+184869;http://www.iedb.org/epitope/184869;MLVAPSYGMR;Linear peptide;272;281;
+184874;http://www.iedb.org/epitope/184874;MMGKREKKL;Linear peptide;2941;2949;
+184878;http://www.iedb.org/epitope/184878;MMLVAPSYGM;Linear peptide;271;280;
+184885;http://www.iedb.org/epitope/184885;MPLVMAWRT;Linear peptide;1284;1292;
+184886;http://www.iedb.org/epitope/184886;MPPLRFLGE;Linear peptide;1092;1100;
+184892;http://www.iedb.org/epitope/184892;MPTVIEELEK;Linear peptide;2674;2683;
+184905;http://www.iedb.org/epitope/184905;MSAAIKDQK;Linear peptide;958;966;
+184915;http://www.iedb.org/epitope/184915;MSPGYVLGIF;Linear peptide;1208;1217;
+184925;http://www.iedb.org/epitope/184925;MSYTMCSGKF;Linear peptide;576;585;
+184927;http://www.iedb.org/epitope/184927;MTAGIFLFF;Linear peptide;2156;2164;
+184928;http://www.iedb.org/epitope/184928;MTAGIFLFFM;Linear peptide;2156;2165;
+184932;http://www.iedb.org/epitope/184932;MTCIAVGGI;Linear peptide;756;764;
+184936;http://www.iedb.org/epitope/184936;MTDKTPVHSW;Linear peptide;3312;3321;
+184941;http://www.iedb.org/epitope/184941;MTIIGRRLQR;Linear peptide;2761;2770;
+184943;http://www.iedb.org/epitope/184943;MTLLCLIPTA;Linear peptide;102;111;
+184944;http://www.iedb.org/epitope/184944;MTLMKGASK;Linear peptide;1335;1343;
+184945;http://www.iedb.org/epitope/184945;MTLMKGASKR;Linear peptide;1335;1344;
+184948;http://www.iedb.org/epitope/184948;MTLWYMWQV;Linear peptide;1462;1470;
+184949;http://www.iedb.org/epitope/184949;MTLWYMWQVK;Linear peptide;1462;1471;
+184953;http://www.iedb.org/epitope/184953;MTTEDMLKV;Linear peptide;3292;3300;
+184960;http://www.iedb.org/epitope/184960;MVAGGLLLA;Linear peptide;1376;1384;
+184961;http://www.iedb.org/epitope/184961;MVAGGLLLAA;Linear peptide;1376;1385;
+184962;http://www.iedb.org/epitope/184962;MVEPWLSSK;Linear peptide;2654;2662;
+184966;http://www.iedb.org/epitope/184966;MVIGMAMTTV;Linear peptide;1229;1238;
+184967;http://www.iedb.org/epitope/184967;MVKPKGKVV;Linear peptide;2557;2565;
+184968;http://www.iedb.org/epitope/184968;MVLAFITFL;Linear peptide;45;53;
+184969;http://www.iedb.org/epitope/184969;MVLAFITFLR;Linear peptide;45;54;
+184972;http://www.iedb.org/epitope/184972;MVMTTTANW;Linear peptide;2859;2867;
+184973;http://www.iedb.org/epitope/184973;MVMTTTANWL;Linear peptide;2859;2868;
+184978;http://www.iedb.org/epitope/184978;MVRILIGFL;Linear peptide;733;741;
+184979;http://www.iedb.org/epitope/184979;MVRILIGFLV;Linear peptide;733;742;
+184982;http://www.iedb.org/epitope/184982;MVTFKVPHAK;Linear peptide;516;525;
+184983;http://www.iedb.org/epitope/184983;MVTHFDNTQV;Linear peptide;1261;1270;
+184986;http://www.iedb.org/epitope/184986;MWHVTRGSVI;Linear peptide;1523;1532;
+184987;http://www.iedb.org/epitope/184987;MWKQITNEL;Linear peptide;841;849;
+185013;http://www.iedb.org/epitope/185013;NDLKYSWKTW;Linear peptide;883;892;
+185014;http://www.iedb.org/epitope/185014;NDMISYGGGW;Linear peptide;1548;1557;
+185018;http://www.iedb.org/epitope/185018;NEELITEQM;Linear peptide;3036;3044;
+185021;http://www.iedb.org/epitope/185021;NEGIMAVGL;Linear peptide;1349;1357;
+185027;http://www.iedb.org/epitope/185027;NELNYVLWE;Linear peptide;847;855;
+185028;http://www.iedb.org/epitope/185028;NELPESLETL;Linear peptide;2138;2147;
+185029;http://www.iedb.org/epitope/185029;NEMGLIEKT;Linear peptide;2243;2251;
+185034;http://www.iedb.org/epitope/185034;NEMILMKMK;Linear peptide;473;481;
+185043;http://www.iedb.org/epitope/185043;NERRAWNFL;Linear peptide;919;927;
+185056;http://www.iedb.org/epitope/185056;NIHTAITQV;Linear peptide;3350;3358;
+185057;http://www.iedb.org/epitope/185057;NIHTAITQVR;Linear peptide;3350;3359;
+185060;http://www.iedb.org/epitope/185060;NIVMLHTTER;Linear peptide;2119;2128;
+185071;http://www.iedb.org/epitope/185071;NMEVEIWTR;Linear peptide;2050;2058;
+185083;http://www.iedb.org/epitope/185083;NPGFALLAGF;Linear peptide;243;252;
+185086;http://www.iedb.org/epitope/185086;NPNMTDKTPV;Linear peptide;3309;3318;
+185088;http://www.iedb.org/epitope/185088;NPRLCTREE;Linear peptide;2877;2885;
+185090;http://www.iedb.org/epitope/185090;NPTTLIASL;Linear peptide;2342;2350;
+185095;http://www.iedb.org/epitope/185095;NQAAVLMGL;Linear peptide;2309;2317;
+185098;http://www.iedb.org/epitope/185098;NQILEENMEV;Linear peptide;2044;2053;
+185101;http://www.iedb.org/epitope/185101;NRKGKVIGLY;Linear peptide;1615;1624;
+185118;http://www.iedb.org/epitope/185118;NTGFDWITDY;Linear peptide;1819;1828;
+185126;http://www.iedb.org/epitope/185126;NTSANLSLA;Linear peptide;2297;2305;
+185127;http://www.iedb.org/epitope/185127;NTSMAMTCI;Linear peptide;751;759;
+185132;http://www.iedb.org/epitope/185132;NTTSKMLLNR;Linear peptide;2720;2729;
+185137;http://www.iedb.org/epitope/185137;NVTEVKGYTK;Linear peptide;2583;2592;
+185148;http://www.iedb.org/epitope/185148;NYKERMVTFK;Linear peptide;511;520;
+185169;http://www.iedb.org/epitope/185169;PFGDSYIVI;Linear peptide;651;659;
+185196;http://www.iedb.org/epitope/185196;PPVNDLKYSW;Linear peptide;880;889;
+185203;http://www.iedb.org/epitope/185203;PSSVAARGY;Linear peptide;1765;1773;
+185204;http://www.iedb.org/epitope/185204;PSSVAARGYI;Linear peptide;1765;1774;
+185205;http://www.iedb.org/epitope/185205;PSVEVKLPDY;Linear peptide;448;457;
+185216;http://www.iedb.org/epitope/185216;PVNDLKYSW;Linear peptide;881;889;
+185218;http://www.iedb.org/epitope/185218;PVYLMTLMK;Linear peptide;1331;1339;
+185220;http://www.iedb.org/epitope/185220;PWLSSKPEF;Linear peptide;2657;2665;
+185221;http://www.iedb.org/epitope/185221;PYLGKREDLW;Linear peptide;3325;3334;
+185224;http://www.iedb.org/epitope/185224;PYMPTVIEEL;Linear peptide;2672;2681;
+185227;http://www.iedb.org/epitope/185227;QAAVLMGLGK;Linear peptide;2310;2319;
+185229;http://www.iedb.org/epitope/185229;QAIDGEFRLR;Linear peptide;1991;2000;
+185233;http://www.iedb.org/epitope/185233;QEGKCESCVY;Linear peptide;2930;2939;
+185244;http://www.iedb.org/epitope/185244;QEVPFCSHHF;Linear peptide;3192;3201;
+185249;http://www.iedb.org/epitope/185249;QIHLAIMAV;Linear peptide;1197;1205;
+185250;http://www.iedb.org/epitope/185250;QIHLAIMAVF;Linear peptide;1197;1206;
+185251;http://www.iedb.org/epitope/185251;QILEENMEV;Linear peptide;2045;2053;
+185257;http://www.iedb.org/epitope/185257;QKATLTEGVY;Linear peptide;1488;1497;
+185261;http://www.iedb.org/epitope/185261;QLAMTDTTPF;Linear peptide;2827;2836;
+185265;http://www.iedb.org/epitope/185265;QLIYVILTI;Linear peptide;2225;2233;
+185268;http://www.iedb.org/epitope/185268;QLLLMRTTW;Linear peptide;2419;2427;
+185277;http://www.iedb.org/epitope/185277;QMAPHHKIL;Linear peptide;3043;3051;
+185289;http://www.iedb.org/epitope/185289;QPKPGTRMVM;Linear peptide;2852;2861;
+185292;http://www.iedb.org/epitope/185292;QPQWIAASI;Linear peptide;2193;2201;
+185293;http://www.iedb.org/epitope/185293;QPQWIAASII;Linear peptide;2193;2202;
+185308;http://www.iedb.org/epitope/185308;QTVGPWHLGK;Linear peptide;1037;1046;
+185332;http://www.iedb.org/epitope/185332;RAGRVIDPR;Linear peptide;1892;1900;
+185334;http://www.iedb.org/epitope/185334;RAKGSRAIWY;Linear peptide;2954;2963;
+185350;http://www.iedb.org/epitope/185350;REDLWCGSLI;Linear peptide;3330;3339;
+185363;http://www.iedb.org/epitope/185363;RFLGEDGCWY;Linear peptide;1096;1105;
+185367;http://www.iedb.org/epitope/185367;RFSTGLFSGK;Linear peptide;31;40;
+185368;http://www.iedb.org/epitope/185368;RFSTSLLFL;Linear peptide;3161;3169;
+185369;http://www.iedb.org/epitope/185369;RFSTSLLFLN;Linear peptide;3161;3170;
+185371;http://www.iedb.org/epitope/185371;RFWELVDKER;Linear peptide;2917;2926;
+185379;http://www.iedb.org/epitope/185379;RGRIGRNPA;Linear peptide;1932;1940;
+185383;http://www.iedb.org/epitope/185383;RHERGRPLLF;Linear peptide;129;138;
+185384;http://www.iedb.org/epitope/185384;RHRKPTYEK;Linear peptide;2733;2741;
+185386;http://www.iedb.org/epitope/185386;RIISSTPFA;Linear peptide;629;637;
+185387;http://www.iedb.org/epitope/185387;RIKGMSYTM;Linear peptide;572;580;
+185393;http://www.iedb.org/epitope/185393;RIMQRGLFGK;Linear peptide;1498;1507;
+185397;http://www.iedb.org/epitope/185397;RKGKVIGLY;Linear peptide;1616;1624;
+185401;http://www.iedb.org/epitope/185401;RKLTSRETAL;Linear peptide;1219;1228;
+185405;http://www.iedb.org/epitope/185405;RKSGKKVIQL;Linear peptide;1850;1859;
+185408;http://www.iedb.org/epitope/185408;RLASAILNA;Linear peptide;815;823;
+185409;http://www.iedb.org/epitope/185409;RLASMAICSA;Linear peptide;3261;3270;
+185428;http://www.iedb.org/epitope/185428;RLRGEQRKTF;Linear peptide;1998;2007;
+185433;http://www.iedb.org/epitope/185433;RMAILGETAW;Linear peptide;690;699;
+185435;http://www.iedb.org/epitope/185435;RMDLGVPLL;Linear peptide;2325;2333;
+185440;http://www.iedb.org/epitope/185440;RMLNILNGR;Linear peptide;89;97;
+185441;http://www.iedb.org/epitope/185441;RMLNILNGRK;Linear peptide;89;98;
+185444;http://www.iedb.org/epitope/185444;RMVLAFITF;Linear peptide;44;52;
+185445;http://www.iedb.org/epitope/185445;RMVLAFITFL;Linear peptide;44;53;
+185446;http://www.iedb.org/epitope/185446;RMVMTTTANW;Linear peptide;2858;2867;
+185456;http://www.iedb.org/epitope/185456;RNRVSTPQG;Linear peptide;19;27;
+185466;http://www.iedb.org/epitope/185466;RPLSEKEENM;Linear peptide;1110;1119;
+185475;http://www.iedb.org/epitope/185475;RPTPKGAVMD;Linear peptide;3069;3078;
+185495;http://www.iedb.org/epitope/185495;RRVTRKHMIL;Linear peptide;1151;1160;
+185498;http://www.iedb.org/epitope/185498;RSCTMPPLR;Linear peptide;1088;1096;
+185499;http://www.iedb.org/epitope/185499;RSCTMPPLRF;Linear peptide;1088;1097;
+185513;http://www.iedb.org/epitope/185513;RSWNTGFDW;Linear peptide;1816;1824;
+185515;http://www.iedb.org/epitope/185515;RSWPLNEGI;Linear peptide;1344;1352;
+185519;http://www.iedb.org/epitope/185519;RTEAKSALK;Linear peptide;2525;2533;
+185520;http://www.iedb.org/epitope/185520;RTIMAVLFV;Linear peptide;1291;1299;
+185521;http://www.iedb.org/epitope/185521;RTIMAVLFVV;Linear peptide;1291;1300;
+185530;http://www.iedb.org/epitope/185530;RTPQDNQLIY;Linear peptide;2219;2228;
+185534;http://www.iedb.org/epitope/185534;RTSCLQKQSH;Linear peptide;1307;1316;
+185539;http://www.iedb.org/epitope/185539;RTTWAFCEV;Linear peptide;2424;2432;
+185541;http://www.iedb.org/epitope/185541;RTVFFVLMM;Linear peptide;264;272;
+185542;http://www.iedb.org/epitope/185542;RTVFFVLMML;Linear peptide;264;273;
+185543;http://www.iedb.org/epitope/185543;RTYCIEASI;Linear peptide;336;344;
+185550;http://www.iedb.org/epitope/185550;RVILAGPIPV;Linear peptide;1914;1923;
+185555;http://www.iedb.org/epitope/185555;RVLSIPPTA;Linear peptide;54;62;
+185563;http://www.iedb.org/epitope/185563;RVSTPQGLVK;Linear peptide;21;30;
+185569;http://www.iedb.org/epitope/185569;RVYADPMAL;Linear peptide;2073;2081;
+185570;http://www.iedb.org/epitope/185570;RVYADPMALK;Linear peptide;2073;2082;
+185580;http://www.iedb.org/epitope/185580;SALTLHWFR;Linear peptide;664;672;
+185581;http://www.iedb.org/epitope/185581;SALTLHWFRK;Linear peptide;664;673;
+185582;http://www.iedb.org/epitope/185582;SASEAVNDSR;Linear peptide;2908;2917;
+185597;http://www.iedb.org/epitope/185597;SEAVNDSRF;Linear peptide;2910;2918;
+185598;http://www.iedb.org/epitope/185598;SEAVNDSRFW;Linear peptide;2910;2919;
+185599;http://www.iedb.org/epitope/185599;SECPNERRAW;Linear peptide;915;924;
+185615;http://www.iedb.org/epitope/185615;SEMGANFRAG;Linear peptide;1885;1894;
+185623;http://www.iedb.org/epitope/185623;SETFSMGLL;Linear peptide;1131;1139;
+185624;http://www.iedb.org/epitope/185624;SETFSMGLLC;Linear peptide;1131;1140;
+185626;http://www.iedb.org/epitope/185626;SEVCDHRLM;Linear peptide;950;958;
+185646;http://www.iedb.org/epitope/185646;SIGKMLESTY;Linear peptide;676;685;
+185656;http://www.iedb.org/epitope/185656;SIPPTAGILK;Linear peptide;57;66;
+185657;http://www.iedb.org/epitope/185657;SISNITTATR;Linear peptide;343;352;
+185671;http://www.iedb.org/epitope/185671;SLDRKEFEEY;Linear peptide;2506;2515;
+185677;http://www.iedb.org/epitope/185677;SLGKAVHQV;Linear peptide;710;718;
+185679;http://www.iedb.org/epitope/185679;SLGLILLKMV;Linear peptide;1253;1262;
+185680;http://www.iedb.org/epitope/185680;SLIEVKTCLW;Linear peptide;990;999;
+185681;http://www.iedb.org/epitope/185681;SLIGLSSRA;Linear peptide;3337;3345;
+185688;http://www.iedb.org/epitope/185688;SLLFLNDMGK;Linear peptide;3165;3174;
+185689;http://www.iedb.org/epitope/185689;SLLGSALLK;Linear peptide;1359;1367;
+185702;http://www.iedb.org/epitope/185702;SLVMLLVHY;Linear peptide;2349;2357;
+185703;http://www.iedb.org/epitope/185703;SLVMLLVHYA;Linear peptide;2349;2358;
+185707;http://www.iedb.org/epitope/185707;SMAMTCIAV;Linear peptide;753;761;
+185722;http://www.iedb.org/epitope/185722;SPAAAQKAT;Linear peptide;1483;1491;
+185723;http://www.iedb.org/epitope/185723;SPAAAQKATL;Linear peptide;1483;1492;
+185726;http://www.iedb.org/epitope/185726;SPARLASAI;Linear peptide;812;820;
+185727;http://www.iedb.org/epitope/185727;SPARLASAIL;Linear peptide;812;821;
+185728;http://www.iedb.org/epitope/185728;SPGYVLGIFL;Linear peptide;1209;1218;
+185731;http://www.iedb.org/epitope/185731;SPIEDIEREI;Linear peptide;1804;1813;
+185732;http://www.iedb.org/epitope/185732;SPIINRKGKV;Linear peptide;1611;1620;
+185738;http://www.iedb.org/epitope/185738;SPSVEVKLPD;Linear peptide;447;456;
+185745;http://www.iedb.org/epitope/185745;SQHNYRQGY;Linear peptide;1026;1034;
+185761;http://www.iedb.org/epitope/185761;SSKIRWIVER;Linear peptide;2546;2555;
+185763;http://www.iedb.org/epitope/185763;SSKPEFCIK;Linear peptide;2660;2668;
+185774;http://www.iedb.org/epitope/185774;STANIFRGSY;Linear peptide;2459;2468;
+185782;http://www.iedb.org/epitope/185782;STMPLVMAWR;Linear peptide;1282;1291;
+185785;http://www.iedb.org/epitope/185785;STMTLLCLI;Linear peptide;100;108;
+185786;http://www.iedb.org/epitope/185786;STPQGLVKRF;Linear peptide;23;32;
+185787;http://www.iedb.org/epitope/185787;STRDGEPLM;Linear peptide;117;125;
+185790;http://www.iedb.org/epitope/185790;STRVPNYNL;Linear peptide;1746;1754;
+185791;http://www.iedb.org/epitope/185791;STSLLFLNDM;Linear peptide;3163;3172;
+185801;http://www.iedb.org/epitope/185801;SVICHETGR;Linear peptide;1530;1538;
+185810;http://www.iedb.org/epitope/185810;SVYTTMFGGV;Linear peptide;721;730;
+185813;http://www.iedb.org/epitope/185813;SWILRNPGF;Linear peptide;238;246;
+185826;http://www.iedb.org/epitope/185826;SYKVASAGI;Linear peptide;2021;2029;
+185833;http://www.iedb.org/epitope/185833;SYTMCSGKF;Linear peptide;577;585;
+185844;http://www.iedb.org/epitope/185844;TAKEVALLR;Linear peptide;328;336;
+185849;http://www.iedb.org/epitope/185849;TAMAFHLSTR;Linear peptide;110;119;
+185851;http://www.iedb.org/epitope/185851;TANIFRGSY;Linear peptide;2460;2468;
+185856;http://www.iedb.org/epitope/185856;TASGKLVTQW;Linear peptide;1076;1085;
+185864;http://www.iedb.org/epitope/185864;TCLWPKTHTL;Linear peptide;996;1005;
+185872;http://www.iedb.org/epitope/185872;TEDDLLNEEL;Linear peptide;3030;3039;
+185877;http://www.iedb.org/epitope/185877;TEGINKCTL;Linear peptide;141;149;
+185880;http://www.iedb.org/epitope/185880;TEIASLPTY;Linear peptide;2100;2108;
+185889;http://www.iedb.org/epitope/185889;TEPEDIDCW;Linear peptide;172;180;
+185890;http://www.iedb.org/epitope/185890;TEQMAPHHKI;Linear peptide;3041;3050;
+185899;http://www.iedb.org/epitope/185899;TFIRSTMPL;Linear peptide;1278;1286;
+185900;http://www.iedb.org/epitope/185900;TFIRSTMPLV;Linear peptide;1278;1287;
+185911;http://www.iedb.org/epitope/185911;TGFDWITDY;Linear peptide;1820;1828;
+185913;http://www.iedb.org/epitope/185913;TIAVSTANI;Linear peptide;2455;2463;
+185922;http://www.iedb.org/epitope/185922;TIIGRRLQR;Linear peptide;2762;2770;
+185928;http://www.iedb.org/epitope/185928;TIMAVLFVV;Linear peptide;1292;1300;
+185933;http://www.iedb.org/epitope/185933;TLALSLTFI;Linear peptide;1272;1280;
+185938;http://www.iedb.org/epitope/185938;TLATGPVLTL;Linear peptide;2434;2443;
+185940;http://www.iedb.org/epitope/185940;TLCAIILGGL;Linear peptide;1165;1174;
+185941;http://www.iedb.org/epitope/185941;TLFGPEREK;Linear peptide;1981;1989;
+185942;http://www.iedb.org/epitope/185942;TLFVEECLR;Linear peptide;1142;1150;
+185946;http://www.iedb.org/epitope/185946;TLIASLVMLL;Linear peptide;2345;2354;
+185957;http://www.iedb.org/epitope/185957;TLLCLIPTA;Linear peptide;103;111;
+185962;http://www.iedb.org/epitope/185962;TLMLVALLGA;Linear peptide;2146;2155;
+185965;http://www.iedb.org/epitope/185965;TLTGEIGAV;Linear peptide;1592;1600;
+185967;http://www.iedb.org/epitope/185967;TLWYMWQVK;Linear peptide;1463;1471;
+185969;http://www.iedb.org/epitope/185969;TLYAVATTIL;Linear peptide;2278;2287;
+185975;http://www.iedb.org/epitope/185975;TMFGGVSWMV;Linear peptide;725;734;
+185984;http://www.iedb.org/epitope/185984;TMPLVMAWR;Linear peptide;1283;1291;
+185989;http://www.iedb.org/epitope/185989;TMTLWYMWQV;Linear peptide;1461;1470;
+185991;http://www.iedb.org/epitope/185991;TMWHVTRGSV;Linear peptide;1522;1531;
+185993;http://www.iedb.org/epitope/185993;TPEAKNSTFL;Linear peptide;899;908;
+185998;http://www.iedb.org/epitope/185998;TPFAEYTNSV;Linear peptide;634;643;
+186000;http://www.iedb.org/epitope/186000;TPKGAVMDI;Linear peptide;3071;3079;
+186014;http://www.iedb.org/epitope/186014;TPQDNQLIY;Linear peptide;2220;2228;
+186016;http://www.iedb.org/epitope/186016;TPQPKPGTRM;Linear peptide;2850;2859;
+186022;http://www.iedb.org/epitope/186022;TPRRGTGTT;Linear peptide;2484;2492;
+186023;http://www.iedb.org/epitope/186023;TPRRGTGTTG;Linear peptide;2484;2493;
+186024;http://www.iedb.org/epitope/186024;TPRSPSVEV;Linear peptide;444;452;
+186037;http://www.iedb.org/epitope/186037;TQVGTLALSL;Linear peptide;1268;1277;
+186045;http://www.iedb.org/epitope/186045;TSANLSLAAI;Linear peptide;2298;2307;
+186046;http://www.iedb.org/epitope/186046;TSAWVMYGT;Linear peptide;184;192;
+186050;http://www.iedb.org/epitope/186050;TSETFSMGLL;Linear peptide;1130;1139;
+186051;http://www.iedb.org/epitope/186051;TSEVHWNYK;Linear peptide;505;513;
+186065;http://www.iedb.org/epitope/186065;TSMAMTCIAV;Linear peptide;752;761;
+186075;http://www.iedb.org/epitope/186075;TTAKEVALL;Linear peptide;327;335;
+186076;http://www.iedb.org/epitope/186076;TTAKEVALLR;Linear peptide;327;336;
+186079;http://www.iedb.org/epitope/186079;TTANWLWAL;Linear peptide;2863;2871;
+186080;http://www.iedb.org/epitope/186080;TTANWLWALL;Linear peptide;2863;2872;
+186085;http://www.iedb.org/epitope/186085;TTERGGKAY;Linear peptide;2125;2133;
+186092;http://www.iedb.org/epitope/186092;TTIAVSTANI;Linear peptide;2454;2463;
+186096;http://www.iedb.org/epitope/186096;TTILDVDLR;Linear peptide;2264;2272;
+186097;http://www.iedb.org/epitope/186097;TTILTPMLR;Linear peptide;2284;2292;
+186102;http://www.iedb.org/epitope/186102;TTMFGGVSW;Linear peptide;724;732;
+186105;http://www.iedb.org/epitope/186105;TTNIWMKFR;Linear peptide;938;946;
+186106;http://www.iedb.org/epitope/186106;TTPFGQQRV;Linear peptide;2833;2841;
+186107;http://www.iedb.org/epitope/186107;TTRLENIMW;Linear peptide;834;842;
+186108;http://www.iedb.org/epitope/186108;TTRLENIMWK;Linear peptide;834;843;
+186111;http://www.iedb.org/epitope/186111;TTRLLSSTR;Linear peptide;1740;1748;
+186117;http://www.iedb.org/epitope/186117;TTSKMLLNR;Linear peptide;2721;2729;
+186137;http://www.iedb.org/epitope/186137;TVFFVLMML;Linear peptide;265;273;
+186138;http://www.iedb.org/epitope/186138;TVFFVLMMLV;Linear peptide;265;274;
+186139;http://www.iedb.org/epitope/186139;TVGPWHLGK;Linear peptide;1038;1046;
+186140;http://www.iedb.org/epitope/186140;TVHADTGCAV;Linear peptide;771;780;
+186143;http://www.iedb.org/epitope/186143;TVIDLEPISY;Linear peptide;2390;2399;
+186144;http://www.iedb.org/epitope/186144;TVIEELEKL;Linear peptide;2676;2684;
+186156;http://www.iedb.org/epitope/186156;TWAFCEVLTL;Linear peptide;2426;2435;
+186157;http://www.iedb.org/epitope/186157;TWAKNIHTAI;Linear peptide;3346;3355;
+186169;http://www.iedb.org/epitope/186169;TWLVHKQWF;Linear peptide;484;492;
+186170;http://www.iedb.org/epitope/186170;TWLVHKQWFL;Linear peptide;484;493;
+186171;http://www.iedb.org/epitope/186171;TWMDLLRALI;Linear peptide;1175;1184;
+186185;http://www.iedb.org/epitope/186185;TYLSSRAKL;Linear peptide;2107;2115;
+186195;http://www.iedb.org/epitope/186195;VAGGLLLAAY;Linear peptide;1377;1386;
+186197;http://www.iedb.org/epitope/186197;VALLRTYCI;Linear peptide;332;340;
+186199;http://www.iedb.org/epitope/186199;VASAGISYK;Linear peptide;2024;2032;
+186200;http://www.iedb.org/epitope/186200;VASAGISYKD;Linear peptide;2024;2033;
+186213;http://www.iedb.org/epitope/186213;VDYMPVMKRY;Linear peptide;3368;3377;
+186223;http://www.iedb.org/epitope/186223;VEDYGFGMF;Linear peptide;929;937;
+186229;http://www.iedb.org/epitope/186229;VEGEGLHRL;Linear peptide;2994;3002;
+186231;http://www.iedb.org/epitope/186231;VEGVSGGAW;Linear peptide;291;299;
+186233;http://www.iedb.org/epitope/186233;VEITALILGA;Linear peptide;1318;1327;
+186239;http://www.iedb.org/epitope/186239;VEMGEAAAI;Linear peptide;1778;1786;
+186240;http://www.iedb.org/epitope/186240;VEMGEAAAIF;Linear peptide;1778;1787;
+186254;http://www.iedb.org/epitope/186254;VFGSVYTTM;Linear peptide;718;726;
+186255;http://www.iedb.org/epitope/186255;VFGSVYTTMF;Linear peptide;718;727;
+186267;http://www.iedb.org/epitope/186267;VHQVFGSVY;Linear peptide;715;723;
+186269;http://www.iedb.org/epitope/186269;VHSWEDIPY;Linear peptide;3318;3326;
+186272;http://www.iedb.org/epitope/186272;VIDLEPISY;Linear peptide;2391;2399;
+186275;http://www.iedb.org/epitope/186275;VILAGPIPV;Linear peptide;1915;1923;
+186278;http://www.iedb.org/epitope/186278;VKPKGKVVDL;Linear peptide;2558;2567;
+186281;http://www.iedb.org/epitope/186281;VLAFITFLRV;Linear peptide;46;55;
+186290;http://www.iedb.org/epitope/186290;VLFVVTLIPL;Linear peptide;1296;1305;
+186306;http://www.iedb.org/epitope/186306;VLSIPPTAGI;Linear peptide;55;64;
+186311;http://www.iedb.org/epitope/186311;VLTLATGPV;Linear peptide;2432;2440;
+186312;http://www.iedb.org/epitope/186312;VLTLATGPVL;Linear peptide;2432;2441;
+186314;http://www.iedb.org/epitope/186314;VLWEGGHDL;Linear peptide;852;860;
+186322;http://www.iedb.org/epitope/186322;VMAWRTIMAV;Linear peptide;1287;1296;
+186326;http://www.iedb.org/epitope/186326;VMKRYSAPF;Linear peptide;3373;3381;
+186338;http://www.iedb.org/epitope/186338;VPHAKRQDV;Linear peptide;521;529;
+186351;http://www.iedb.org/epitope/186351;VQIENLEYT;Linear peptide;409;417;
+186352;http://www.iedb.org/epitope/186352;VQIENLEYTV;Linear peptide;409;418;
+186356;http://www.iedb.org/epitope/186356;VQVLAIEPGK;Linear peptide;1569;1578;
+186366;http://www.iedb.org/epitope/186366;VSLLGSALLK;Linear peptide;1358;1367;
+186371;http://www.iedb.org/epitope/186371;VSSVNTTSK;Linear peptide;2716;2724;
+186372;http://www.iedb.org/epitope/186372;VSSVNTTSKM;Linear peptide;2716;2725;
+186390;http://www.iedb.org/epitope/186390;VTFKVPHAK;Linear peptide;517;525;
+186391;http://www.iedb.org/epitope/186391;VTFKVPHAKR;Linear peptide;517;526;
+186397;http://www.iedb.org/epitope/186397;VTMTLWYMW;Linear peptide;1460;1468;
+186398;http://www.iedb.org/epitope/186398;VTNIELEPPF;Linear peptide;643;652;
+186404;http://www.iedb.org/epitope/186404;VTRKHMILV;Linear peptide;1153;1161;
+186421;http://www.iedb.org/epitope/186421;VVRPPFNML;Linear peptide;7;15;
+186422;http://www.iedb.org/epitope/186422;VVRPPFNMLK;Linear peptide;7;16;
+186436;http://www.iedb.org/epitope/186436;VYRIMQRGLF;Linear peptide;1496;1505;
+186437;http://www.iedb.org/epitope/186437;WAFCEVLTL;Linear peptide;2427;2435;
+186438;http://www.iedb.org/epitope/186438;WAKNIHTAI;Linear peptide;3347;3355;
+186443;http://www.iedb.org/epitope/186443;WAYHGSYEA;Linear peptide;2790;2798;
+186444;http://www.iedb.org/epitope/186444;WEGGHDLTV;Linear peptide;854;862;
+186447;http://www.iedb.org/epitope/186447;WELVDKERAL;Linear peptide;2919;2928;
+186465;http://www.iedb.org/epitope/186465;WHYDQENPY;Linear peptide;2779;2787;
+186476;http://www.iedb.org/epitope/186476;WLSYKVASA;Linear peptide;2019;2027;
+186491;http://www.iedb.org/epitope/186491;WMVRILIGF;Linear peptide;732;740;
+186495;http://www.iedb.org/epitope/186495;WNTGFDWITD;Linear peptide;1818;1827;
+186499;http://www.iedb.org/epitope/186499;WPLHRMDLGV;Linear peptide;2321;2330;
+186505;http://www.iedb.org/epitope/186505;WQIEKASLI;Linear peptide;984;992;
+186517;http://www.iedb.org/epitope/186517;WSYYMATLK;Linear peptide;2574;2582;
+186521;http://www.iedb.org/epitope/186521;WTLYAVATTI;Linear peptide;2277;2286;
+186528;http://www.iedb.org/epitope/186528;WTSASEAVND;Linear peptide;2906;2915;
+186532;http://www.iedb.org/epitope/186532;WVSGVSGNI;Linear peptide;2707;2715;
+186542;http://www.iedb.org/epitope/186542;WYMWQVKTQR;Linear peptide;1465;1474;
+186543;http://www.iedb.org/epitope/186543;YAGPFSQHNY;Linear peptide;1021;1030;
+186548;http://www.iedb.org/epitope/186548;YATQTVGPW;Linear peptide;1034;1042;
+186568;http://www.iedb.org/epitope/186568;YLKEEQDQQY;Linear peptide;360;369;
+186570;http://www.iedb.org/epitope/186570;YLMTLMKGA;Linear peptide;1333;1341;
+186571;http://www.iedb.org/epitope/186571;YLSSRAKLA;Linear peptide;2108;2116;
+186572;http://www.iedb.org/epitope/186572;YLSSRAKLAL;Linear peptide;2108;2117;
+186576;http://www.iedb.org/epitope/186576;YMIGQTGIQR;Linear peptide;255;264;
+186579;http://www.iedb.org/epitope/186579;YMPTVIEEL;Linear peptide;2673;2681;
+186583;http://www.iedb.org/epitope/186583;YMWQVKTQR;Linear peptide;1466;1474;
+186585;http://www.iedb.org/epitope/186585;YPLAIPVTMT;Linear peptide;1454;1463;
+186590;http://www.iedb.org/epitope/186590;YQGKTVWFV;Linear peptide;1828;1836;
+186593;http://www.iedb.org/epitope/186593;YQNKVVKVL;Linear peptide;3060;3068;
+186596;http://www.iedb.org/epitope/186596;YQTPAVKSEH;Linear peptide;1716;1725;
+186597;http://www.iedb.org/epitope/186597;YQVKTETTI;Linear peptide;2258;2266;
+186598;http://www.iedb.org/epitope/186598;YQVKTETTIL;Linear peptide;2258;2267;
+186599;http://www.iedb.org/epitope/186599;YRGAKRMAIL;Linear peptide;685;694;
+186600;http://www.iedb.org/epitope/186600;YSAPFESEGV;Linear peptide;3377;3386;
+186613;http://www.iedb.org/epitope/186613;YTMCSGKFSI;Linear peptide;578;587;
+186614;http://www.iedb.org/epitope/186614;YTNSVTNIEL;Linear peptide;639;648;
+186616;http://www.iedb.org/epitope/186616;YTTMFGGVSW;Linear peptide;723;732;
+186618;http://www.iedb.org/epitope/186618;YVDYMPVMKR;Linear peptide;3367;3376;
+186619;http://www.iedb.org/epitope/186619;YVFSGDPLK;Linear peptide;1946;1954;
+186621;http://www.iedb.org/epitope/186621;YVILTILTII;Linear peptide;2228;2237;
+186622;http://www.iedb.org/epitope/186622;YVLGIFLRK;Linear peptide;1212;1220;
+186623;http://www.iedb.org/epitope/186623;YVLGIFLRKL;Linear peptide;1212;1221;
+186630;http://www.iedb.org/epitope/186630;YVSAITQAER;Linear peptide;1635;1644;
+195791;http://www.iedb.org/epitope/195791;NIMWKQITNELNYVL;Linear peptide;839;853;
+539661;http://www.iedb.org/epitope/539661;MGCYSQVNPTTLIAS;Linear peptide;2335;2349;
+738500;http://www.iedb.org/epitope/738500;AMGCYSQVNPTTLIA;Linear peptide;2334;2348;
+180805;http://www.iedb.org/epitope/180805;VQADMGCVV;Linear peptide;772;780;
+182438;http://www.iedb.org/epitope/182438;ADMGCVVSW;Linear peptide;774;782;
+185256;http://www.iedb.org/epitope/185256;QKAALSEGVY;Linear peptide;1488;1497;
+185724;http://www.iedb.org/epitope/185724;SPAATQKAA;Linear peptide;1483;1491;
+185725;http://www.iedb.org/epitope/185725;SPAATQKAAL;Linear peptide;1483;1492;
+16649;http://www.iedb.org/epitope/16649;FLIDGPDTSECPNERRA;Linear peptide;907;923;
+30831;http://www.iedb.org/epitope/30831;KFQPESPARLASAILNA;Linear peptide;807;823;
+41821;http://www.iedb.org/epitope/41821;MKFREGSSEVC;Linear peptide;943;953;
+73272;http://www.iedb.org/epitope/73272;WYGMEIRPLSEKEENMV;Linear peptide;1104;1120;
+164475;http://www.iedb.org/epitope/164475;SLIEVKTCL;Linear peptide;990;998;
+167725;http://www.iedb.org/epitope/167725;AMTTTLSIPHDLMELIDGIS;Linear peptide;1234;1253;
+167763;http://www.iedb.org/epitope/167763;IVTQFDNTQVGTLA;Linear peptide;1261;1274;
+61775;http://www.iedb.org/epitope/61775;STMPLVMAW;Linear peptide;1282;1290;
+150544;http://www.iedb.org/epitope/150544;RRLRTLILAPTRVVA;Linear peptide;1688;1702;The epitope is within NS3.
+195263;http://www.iedb.org/epitope/195263;EPDYEVDEDIFRKKR;Linear peptide;1647;1661;The epitope is within NS3.
+195563;http://www.iedb.org/epitope/195563;KGKVIGLYGNGVVTK;Linear peptide;1617;1631;The epitope is within NS3.
+195898;http://www.iedb.org/epitope/195898;RLRTLILAPTRVVAA;Linear peptide;1689;1703;The epitope is within NS3.
+195962;http://www.iedb.org/epitope/195962;SIVREALKRRLRTLI;Linear peptide;1680;1694;The epitope is within NS3.
+539080;http://www.iedb.org/epitope/539080;ALRGLPIRYQTPAVK;Linear peptide;1708;1722;The epitope is within NS3.
+539520;http://www.iedb.org/epitope/539520;KVIGLYGNGVVTKSG;Linear peptide;1619;1633;This epitope is within the NS3 protein.
+539985;http://www.iedb.org/epitope/539985;TLILAPTRVVAAEMEEA;Linear peptide;1692;1708;
+37535;http://www.iedb.org/epitope/37535;LLLMRTTWA;Linear peptide;2420;2428;
+40472;http://www.iedb.org/epitope/40472;LVMLLVHYA;Linear peptide;2350;2358;
+164465;http://www.iedb.org/epitope/164465;CLWPKTHTL;Linear peptide;997;1005;
+195822;http://www.iedb.org/epitope/195822;NVMWKQITNELNYVL;Linear peptide;840;854;
+12605;http://www.iedb.org/epitope/12605;EIVDLMCHAT;Linear peptide;1729;1738;Epitope is completely conserved among dengue virus types 1,2,3, and 4. Genbank ID of NS3 protein sequence was found by curator by BLASTing epitope sequence and matching the epitope positions in the protein sequence.
+22820;http://www.iedb.org/epitope/22820;GTSGSPIINR;Linear peptide;1607;1616;
+22822;http://www.iedb.org/epitope/22822;GTSGSPIINRK;Linear peptide;1607;1617;The peptide is derived from the NS3 protein.
+27016;http://www.iedb.org/epitope/27016;ILEENMEVEIWTREGEKKKL;Linear peptide;2046;2065;
+33192;http://www.iedb.org/epitope/33192;KRLTIMDLHPGAGKT;Linear peptide;1660;1674;
+49766;http://www.iedb.org/epitope/49766;PTRVVAAEMEEALRG;Linear peptide;1697;1711;
+65552;http://www.iedb.org/epitope/65552;TPEGIIPTL;Linear peptide;1974;1982;
+68977;http://www.iedb.org/epitope/68977;VIGLYGNGV;Linear peptide;1620;1628;Data originally imported from the Database of Functional Molecular Immunology, FIMM (http://sdmc.lit.org.sg:8080/fimm/) and from the HLA Ligand Database (http://hlaligand.ouhsc.edu/) and recurated. The following refers to the epitope id as found in the original FIMM database: P001100 The identical sequence is found in the flaviviruses West Nile virus and Kunjin virus.
+184079;http://www.iedb.org/epitope/184079;KLTDWDFVV;Linear peptide;1872;1880;
+42083;http://www.iedb.org/epitope/42083;MLVALLGAM;Linear peptide;2148;2156;
+167758;http://www.iedb.org/epitope/167758;ILTEIASLPTYLSSRAKL;Linear peptide;2098;2115;
+14324;http://www.iedb.org/epitope/14324;ETACLGKAY;Linear peptide;3238;3246;
+17609;http://www.iedb.org/epitope/17609;FRKKRLTIM;Linear peptide;1657;1665;
+69672;http://www.iedb.org/epitope/69672;VLNPYMPTV;Linear peptide;2669;2677;
+74558;http://www.iedb.org/epitope/74558;YLAGAGLAF;Linear peptide;2468;2476;
+184591;http://www.iedb.org/epitope/184591;LSIPHDLMEF;Linear peptide;1239;1248;
+195551;http://www.iedb.org/epitope/195551;IYVILTILTIIALVA;Linear peptide;2227;2241;The epitope is within NS4B.
+195648;http://www.iedb.org/epitope/195648;LIYVILTILTIIALV;Linear peptide;2226;2240;The epitope is within NS4B.
+539024;http://www.iedb.org/epitope/539024;AAAIFMTATPPGTTD;Linear peptide;1783;1797;The epitope is within NS3.
+3949;http://www.iedb.org/epitope/3949;AQEDDQYVF;Linear peptide;1940;1948;
+4010;http://www.iedb.org/epitope/4010;AQMWSLMYF;Linear peptide;3247;3255;
+5223;http://www.iedb.org/epitope/5223;ATYGWNLVK;Linear peptide;2604;2612;
+17607;http://www.iedb.org/epitope/17607;FRKGSSIGK;Linear peptide;671;679;
+27063;http://www.iedb.org/epitope/27063;ILGETAWDF;Linear peptide;693;701;
+27455;http://www.iedb.org/epitope/27455;IMAVGLVSL;Linear peptide;1352;1360;
+27915;http://www.iedb.org/epitope/27915;IPLCRTSCL;Linear peptide;1303;1311;
+30030;http://www.iedb.org/epitope/30030;KAYAQMWSL;Linear peptide;3244;3252;
+33024;http://www.iedb.org/epitope/33024;KQLGQVMLL;Linear peptide;2405;2413;
+33672;http://www.iedb.org/epitope/33672;KTFVELMRR;Linear peptide;2005;2013;
+42349;http://www.iedb.org/epitope/42349;MPVMKRYSA;Linear peptide;3371;3379;
+42891;http://www.iedb.org/epitope/42891;MTTTANWLW;Linear peptide;2861;2869;
+46388;http://www.iedb.org/epitope/46388;NVHTWTEQY;Linear peptide;798;806;
+55533;http://www.iedb.org/epitope/55533;RRCLKPVIL;Linear peptide;1900;1908;
+55548;http://www.iedb.org/epitope/55548;RREKRSVAL;Linear peptide;200;208;
+57465;http://www.iedb.org/epitope/57465;SEHTGREIV;Linear peptide;1723;1731;
+59771;http://www.iedb.org/epitope/59771;SMVNGVVKL;Linear peptide;2806;2814;
+60620;http://www.iedb.org/epitope/60620;SRAIWYMWL;Linear peptide;2958;2966;
+739060;http://www.iedb.org/epitope/739060;GRMLNILNGRKRSTM;Linear peptide;88;102;
+184375;http://www.iedb.org/epitope/184375;LGKSYAQMW;Linear peptide;3246;3254;
+150548;http://www.iedb.org/epitope/150548;RSNAAIGAVF;Linear peptide;2891;2900;
+179846;http://www.iedb.org/epitope/179846;LLMRTTWAF;Linear peptide;2421;2429;
+179915;http://www.iedb.org/epitope/179915;TILTIIGLI;Linear peptide;2232;2240;
+180379;http://www.iedb.org/epitope/180379;ATGPILTLW;Linear peptide;2436;2444;
+180648;http://www.iedb.org/epitope/180648;MEGVFHTMW;Linear peptide;1516;1524;
+182562;http://www.iedb.org/epitope/182562;ALPVYLMTL;Linear peptide;1329;1337;
+182563;http://www.iedb.org/epitope/182563;ALSEGVYRI;Linear peptide;1491;1499;
+183338;http://www.iedb.org/epitope/183338;GEIGAVTLDF;Linear peptide;1595;1604;
+183407;http://www.iedb.org/epitope/183407;GLFGKTQVGV;Linear peptide;1503;1512;
+183650;http://www.iedb.org/epitope/183650;IAVASGLLW;Linear peptide;2180;2188;
+183667;http://www.iedb.org/epitope/183667;IEKASLIEV;Linear peptide;986;994;
+183818;http://www.iedb.org/epitope/183818;IPHDLMELI;Linear peptide;1241;1249;
+184051;http://www.iedb.org/epitope/184051;KLGEFGRAK;Linear peptide;2948;2956;
+184566;http://www.iedb.org/epitope/184566;LPVYLMTLMK;Linear peptide;1330;1339;
+185147;http://www.iedb.org/epitope/185147;NYKERMVTF;Linear peptide;511;519;
+180389;http://www.iedb.org/epitope/180389;CLIPTAMAF;Linear peptide;106;114;
+182919;http://www.iedb.org/epitope/182919;EFRLRGEQR;Linear peptide;1996;2004;
+183427;http://www.iedb.org/epitope/183427;GLYGNGVVTK;Linear peptide;1622;1631;
+186347;http://www.iedb.org/epitope/186347;VPNYNLIVM;Linear peptide;1749;1757;
+196065;http://www.iedb.org/epitope/196065;TPQGLVKRFSSGLFS;Linear peptide;24;38;The epitope is within the C protein.
+180383;http://www.iedb.org/epitope/180383;ATGPVLTLW;Linear peptide;2436;2444;
+180587;http://www.iedb.org/epitope/180587;LATGPVLTLW;Linear peptide;2435;2444;
+180810;http://www.iedb.org/epitope/180810;VTYECPLLV;Linear peptide;162;170;
+184212;http://www.iedb.org/epitope/184212;KVRKDIPQW;Linear peptide;3174;3182;
+195149;http://www.iedb.org/epitope/195149;AKNSTFLIDGPDTSE;Linear peptide;902;916;The epitope is within NS1.
+195220;http://www.iedb.org/epitope/195220;DLMEFIDGISLGLIL;Linear peptide;1244;1258;The epitope is within NS2A.
+195571;http://www.iedb.org/epitope/195571;KHMILVVVTTLCAII;Linear peptide;1156;1170;The epitope is within NS2A.
+195625;http://www.iedb.org/epitope/195625;LESTYRGAKRMAILG;Linear peptide;681;695;The epitope is within the E protein.
+195643;http://www.iedb.org/epitope/195643;LIASLVMLLVHYAII;Linear peptide;2346;2360;The epitope is within NS4B.
+195842;http://www.iedb.org/epitope/195842;PVYLMTLMKGASKRS;Linear peptide;1331;1345;The epitope is within NS2A.
+196032;http://www.iedb.org/epitope/196032;TEGVYRIMQRGLFGK;Linear peptide;1493;1507;The epitope is within NS3.
+196055;http://www.iedb.org/epitope/196055;TLIASLVMLLVHYAI;Linear peptide;2345;2359;The epitope is within NS4B.
+196082;http://www.iedb.org/epitope/196082;TTLIASLVMLLVHYA;Linear peptide;2344;2358;The epitope is within NS4B.
+196105;http://www.iedb.org/epitope/196105;VDYMPVMKRYSAPFE;Linear peptide;3368;3382;The epitope is within NS5.
+196209;http://www.iedb.org/epitope/196209;WAFCEVLTLATGPVL;Linear peptide;2427;2441;The epitope is within NS4B.
+196252;http://www.iedb.org/epitope/196252;YVLGIFLRKLTSRET;Linear peptide;1212;1226;The epitope is within NS2A.
+539313;http://www.iedb.org/epitope/539313;GKAYQHALNELPESL;Linear peptide;2130;2144;The epitope is within NS4A.
+539441;http://www.iedb.org/epitope/539441;ITLFLGFTVHADTGC;Linear peptide;764;778;The epitope is within the E protein.
+539555;http://www.iedb.org/epitope/539555;LGIFLRKLTSRETAL;Linear peptide;1214;1228;The epitope is within NS2A.
+539664;http://www.iedb.org/epitope/539664;MGGQIHLAIMAVFKM;Linear peptide;1194;1208;The epitope is within NS2A.
+195526;http://www.iedb.org/epitope/195526;IQRTVFFILMMLVAP;Linear peptide;262;276;The epitope is within the M protein.
+195853;http://www.iedb.org/epitope/195853;QLIYVILTILAIIGL;Linear peptide;2225;2239;The epitope is within NS4B.
+539820;http://www.iedb.org/epitope/539820;QRTVFFILMMLVAPS;Linear peptide;263;277;The epitope is within the M protein.
+182901;http://www.iedb.org/epitope/182901;EETNMITLL;Linear peptide;1434;1442;
+195157;http://www.iedb.org/epitope/195157;ALSLTFIRSTMSLVM;Linear peptide;1274;1288;The epitope is within NS2A.
+195570;http://www.iedb.org/epitope/195570;KHMILAVVITLCAII;Linear peptide;1156;1170;The epitope is within NS2A.
+195711;http://www.iedb.org/epitope/195711;LSLTFIRSTMSLVMA;Linear peptide;1275;1289;The epitope is within NS2A.
+195919;http://www.iedb.org/epitope/195919;RVWIEDNPNMIDKTP;Linear peptide;3303;3317;The epitope is within NS5.
+196070;http://www.iedb.org/epitope/196070;TRKHMILAVVITLCA;Linear peptide;1154;1168;The epitope is within NS2A.
+240130;http://www.iedb.org/epitope/240130;PPASDLKYSW;Linear peptide;880;889;
+539130;http://www.iedb.org/epitope/539130;CLRRRVTRKHMILAV;Linear peptide;1148;1162;The epitope is within NS2A.
+539407;http://www.iedb.org/epitope/539407;IGGQTHLAIMAVFKM;Linear peptide;1194;1208;The epitope is within NS2A.
+539434;http://www.iedb.org/epitope/539434;IRSTMSLVMAWRTIM;Linear peptide;1280;1294;The epitope is within NS2A.
+239768;http://www.iedb.org/epitope/239768;GTSGSPIINK;Linear peptide;1607;1616;
+186584;http://www.iedb.org/epitope/186584;YPLAIPVTM;Linear peptide;1454;1462;
+195447;http://www.iedb.org/epitope/195447;HFHKILMKDGRSLVV;Linear peptide;3200;3214;The epitope is within NS5.
+196251;http://www.iedb.org/epitope/196251;YVILALLTIISLIAA;Linear peptide;2228;2242;The epitope is within NS4B.
+539023;http://www.iedb.org/epitope/539023;AAAIFMTATPPGTID;Linear peptide;1783;1797;The epitope is within NS3.
+180541;http://www.iedb.org/epitope/180541;ITLLCLIPTV;Linear peptide;102;111;
+239411;http://www.iedb.org/epitope/239411;ALWYVWQVK;Linear peptide;1463;1471;
+184453;http://www.iedb.org/epitope/184453;LLLMRTTWAF;Linear peptide;2420;2429;
+186640;http://www.iedb.org/epitope/186640;YYMATLKNV;Linear peptide;2576;2584;
+186641;http://www.iedb.org/epitope/186641;YYMATLKNVT;Linear peptide;2576;2585;
+136826;http://www.iedb.org/epitope/136826;CYSQVNPTTL;Linear peptide;2337;2346;
+180596;http://www.iedb.org/epitope/180596;LETLMLVALL;Linear peptide;2144;2153;
+180718;http://www.iedb.org/epitope/180718;REDLWCGSL;Linear peptide;3330;3338;
+180843;http://www.iedb.org/epitope/180843;YPKTKLTDWD;Linear peptide;1868;1877;
+182508;http://www.iedb.org/epitope/182508;AIAVASGLLW;Linear peptide;2179;2188;
+182892;http://www.iedb.org/epitope/182892;EENMEVEIW;Linear peptide;2048;2056;
+182926;http://www.iedb.org/epitope/182926;EIASLPTYL;Linear peptide;2101;2109;
+182971;http://www.iedb.org/epitope/182971;EMCEDTVTY;Linear peptide;156;164;
+183231;http://www.iedb.org/epitope/183231;FPQSNSPIED;Linear peptide;1799;1808;
+183353;http://www.iedb.org/epitope/183353;GESSSNPTI;Linear peptide;2635;2643;
+183570;http://www.iedb.org/epitope/183570;HEMYWVSGV;Linear peptide;2703;2711;
+183672;http://www.iedb.org/epitope/183672;IENTSANLSL;Linear peptide;2295;2304;
+184130;http://www.iedb.org/epitope/184130;KREDLWCGSL;Linear peptide;3329;3338;
+184318;http://www.iedb.org/epitope/184318;LEENMEVEIW;Linear peptide;2047;2056;
+184531;http://www.iedb.org/epitope/184531;LPESLETLML;Linear peptide;2140;2149;
+184713;http://www.iedb.org/epitope/184713;LYAVATTIL;Linear peptide;2279;2287;
+185050;http://www.iedb.org/epitope/185050;NFLEVEDYGF;Linear peptide;925;934;
+185232;http://www.iedb.org/epitope/185232;QEEHKETWHY;Linear peptide;2772;2781;
+185881;http://www.iedb.org/epitope/185881;TEIASLPTYL;Linear peptide;2100;2109;
+186330;http://www.iedb.org/epitope/186330;VMLLVHYAI;Linear peptide;2351;2359;
+186453;http://www.iedb.org/epitope/186453;WEPSKGWKNW;Linear peptide;3182;3191;
+186620;http://www.iedb.org/epitope/186620;YVILTILTI;Linear peptide;2228;2236;
+419017;http://www.iedb.org/epitope/419017;MPAMKRYSAP;Linear peptide;3371;3380;
+182707;http://www.iedb.org/epitope/182707;CNLTSTWVMY;Linear peptide;181;190;
+186550;http://www.iedb.org/epitope/186550;YDQENPYRTW;Linear peptide;2781;2790;
+418991;http://www.iedb.org/epitope/418991;IPVTMALWY;Linear peptide;1458;1466;
+419048;http://www.iedb.org/epitope/419048;SPRLCTREEF;Linear peptide;2877;2886;
+186008;http://www.iedb.org/epitope/186008;TPPGATDPF;Linear peptide;1791;1799;
+186303;http://www.iedb.org/epitope/186303;VLMMLVAPSY;Linear peptide;17;26;
+195230;http://www.iedb.org/epitope/195230;DYMPVMKRYSAPSES;Linear peptide;3369;3383;The epitope is within NS5.
+195240;http://www.iedb.org/epitope/195240;EEYVDYMPVMKRYSA;Linear peptide;3365;3379;The epitope is within NS5.
+195279;http://www.iedb.org/epitope/195279;EYVDYMPVMKRYSAP;Linear peptide;3366;3380;The epitope is within NS5.
+195435;http://www.iedb.org/epitope/195435;GVSWMIRILIGLLVL;Linear peptide;729;743;The epitope is within the E protein.
+195764;http://www.iedb.org/epitope/195764;MPVMKRYSAPSESEG;Linear peptide;3371;3385;The epitope is within NS5.
+195768;http://www.iedb.org/epitope/195768;MTLLCLIPTAMAFHL;Linear peptide;102;116;The epitope is within the C protein.
+196106;http://www.iedb.org/epitope/196106;VDYMPVMKRYSAPSE;Linear peptide;3368;3382;The epitope is within NS5.
+539859;http://www.iedb.org/epitope/539859;RKSGKKVIQLSRKTF;Linear peptide;1850;1864;The epitope is within NS3.
+539899;http://www.iedb.org/epitope/539899;SGKKVIQLSRKTFDT;Linear peptide;1852;1866;The epitope is within NS3.
+184954;http://www.iedb.org/epitope/184954;MTTEDMLKVW;Linear peptide;3292;3301;
+195146;http://www.iedb.org/epitope/195146;AKLALDNIVMLHTTE;Linear peptide;2113;2127;The epitope is within NS4A.
+195158;http://www.iedb.org/epitope/195158;ALSLTFIRSTTPLVM;Linear peptide;1274;1288;The epitope is within NS2A.
+195171;http://www.iedb.org/epitope/195171;ARNSTFLIDGPDTSE;Linear peptide;902;916;The epitope is within NS1.
+195177;http://www.iedb.org/epitope/195177;ASLVMLLVHYAIIGP;Linear peptide;2348;2362;The epitope is within NS4B.
+195190;http://www.iedb.org/epitope/195190;AVFKMSPGYVLGVFL;Linear peptide;1204;1218;The epitope is within NS2A.
+195202;http://www.iedb.org/epitope/195202;CIAVGGITLFLGFTV;Linear peptide;758;772;The epitope is within the E protein.
+195204;http://www.iedb.org/epitope/195204;CLGKAYAQMWSLMYF;Linear peptide;3241;3255;The epitope is within NS5.
+195214;http://www.iedb.org/epitope/195214;DFGFYQVKTETTILD;Linear peptide;2254;2268;The epitope is within NS4B.
+195219;http://www.iedb.org/epitope/195219;DLEPISYDPKFEKQL;Linear peptide;2393;2407;The epitope is within NS4B.
+195223;http://www.iedb.org/epitope/195223;DMGKVRKDIPQWEPS;Linear peptide;3171;3185;The epitope is within NS5.
+195224;http://www.iedb.org/epitope/195224;DNQLIYVILTILTII;Linear peptide;2223;2237;The epitope is within NS4B.
+195235;http://www.iedb.org/epitope/195235;EEFISKVRSNAAIGA;Linear peptide;2884;2898;The epitope is within NS5.
+195244;http://www.iedb.org/epitope/195244;EGVYRIMQRGLFGKT;Linear peptide;1494;1508;The epitope is within NS3.
+195272;http://www.iedb.org/epitope/195272;ESTYRGAKRMAILGE;Linear peptide;682;696;The epitope is within the E protein.
+195274;http://www.iedb.org/epitope/195274;ETLMLVALLGAMTAG;Linear peptide;2145;2159;The epitope is within NS4A.
+195276;http://www.iedb.org/epitope/195276;ETTILDVDLRPASAW;Linear peptide;2263;2277;The epitope is within NS4B.
+195283;http://www.iedb.org/epitope/195283;FALLAGFMAYMIGQT;Linear peptide;246;260;The epitope is within the M protein.
+195291;http://www.iedb.org/epitope/195291;FFVLMMLVAPSYGMR;Linear peptide;267;281;The epitope is within the M protein.
+195298;http://www.iedb.org/epitope/195298;FHTMWHVTRGSVICH;Linear peptide;1520;1534;The epitope is within NS3.
+195310;http://www.iedb.org/epitope/195310;FNEMILMKMKKKTWL;Linear peptide;472;486;The epitope is within the E protein.
+195316;http://www.iedb.org/epitope/195316;FNMLKRERNRVSTPQ;Linear peptide;12;26;The epitope is within the C protein.
+195343;http://www.iedb.org/epitope/195343;FVLMMLVAPSYGMRC;Linear peptide;268;282;The epitope is within the M protein.
+195353;http://www.iedb.org/epitope/195353;GEIGAVTLDFKPGTS;Linear peptide;1595;1609;The epitope is within NS3.
+195357;http://www.iedb.org/epitope/195357;GGITLFLGFTVQADM;Linear peptide;762;776;The epitope is within the E protein.
+195358;http://www.iedb.org/epitope/195358;GGLFTSLGKAVHQVF;Linear peptide;705;719;The epitope is within the E protein.
+195374;http://www.iedb.org/epitope/195374;GIMAVGLVSLLGSAL;Linear peptide;1351;1365;The epitope is within NS2B.
+195383;http://www.iedb.org/epitope/195383;GLAFSLIKNAQTPRR;Linear peptide;2473;2487;The epitope is within NS4B.
+195402;http://www.iedb.org/epitope/195402;GLTWMDLLRALIMLG;Linear peptide;1173;1187;The epitope is within NS2A.
+195404;http://www.iedb.org/epitope/195404;GLVSLLGSALLKNDV;Linear peptide;1356;1370;The epitope is within NS2B.
+195434;http://www.iedb.org/epitope/195434;GVSWMIRILIGFLVL;Linear peptide;729;743;The epitope is within the E protein.
+195454;http://www.iedb.org/epitope/195454;HHFHKIFMKDGRSLV;Linear peptide;3199;3213;The epitope is within NS5.
+195473;http://www.iedb.org/epitope/195473;IAVGGITLFLGFTVQ;Linear peptide;759;773;The epitope is within the E protein.
+195483;http://www.iedb.org/epitope/195483;IGFRKEIGRMLNILN;Linear peptide;81;95;The epitope is within the C protein.
+195505;http://www.iedb.org/epitope/195505;ILRNPGFALLAGFMA;Linear peptide;240;254;The epitope is within the M protein.
+195511;http://www.iedb.org/epitope/195511;IMAVGLVSLLGSALL;Linear peptide;1352;1366;The epitope is within NS2B.
+195527;http://www.iedb.org/epitope/195527;IQRTVFFVLMMLVAP;Linear peptide;262;276;The epitope is within the M protein.
+195541;http://www.iedb.org/epitope/195541;ITALILGAQALPVYL;Linear peptide;1320;1334;The epitope is within NS2A.
+195575;http://www.iedb.org/epitope/195575;KLSMGLIAIAVASGL;Linear peptide;2172;2186;The epitope is within NS4A.
+195578;http://www.iedb.org/epitope/195578;KMFESTYRGAKRMAI;Linear peptide;679;693;The epitope is within the E protein.
+195592;http://www.iedb.org/epitope/195592;KTETTILDVDLRPAS;Linear peptide;2261;2275;The epitope is within NS4B.
+195608;http://www.iedb.org/epitope/195608;LAIMAVFKMSPGYVL;Linear peptide;1200;1214;The epitope is within NS2A.
+195639;http://www.iedb.org/epitope/195639;LGYILEDIDKKDGDL;Linear peptide;3002;3016;The epitope is within NS5.
+195662;http://www.iedb.org/epitope/195662;LLLAAYVMSGSSADL;Linear peptide;1381;1395;The epitope is within NS2B.
+195695;http://www.iedb.org/epitope/195695;LPVWLSYKVASAGIS;Linear peptide;2016;2030;The epitope is within NS3.
+195699;http://www.iedb.org/epitope/195699;LQKQSHWVEITALIL;Linear peptide;1311;1325;The epitope is within NS2A.
+195706;http://www.iedb.org/epitope/195706;LRTYCIEASISNITT;Linear peptide;335;349;The epitope is within the E protein.
+195720;http://www.iedb.org/epitope/195720;LTASLVMLLVHYAII;Linear peptide;2346;2360;The epitope is within NS4B.
+195737;http://www.iedb.org/epitope/195737;LWCGSLIGLSSRATW;Linear peptide;3333;3347;The epitope is within NS5.
+195746;http://www.iedb.org/epitope/195746;MAVFKMSPGYVLGVF;Linear peptide;1203;1217;The epitope is within NS2A.
+195748;http://www.iedb.org/epitope/195748;MAVGLVSLLGSALLK;Linear peptide;1353;1367;The epitope is within NS2B.
+195755;http://www.iedb.org/epitope/195755;MGKVRKDIPQWEPSK;Linear peptide;3172;3186;The epitope is within NS5.
+195809;http://www.iedb.org/epitope/195809;NQLIYVILTILTIIG;Linear peptide;2224;2238;The epitope is within NS4B.
+195815;http://www.iedb.org/epitope/195815;NRVWIEDNPNMTDKT;Linear peptide;3302;3316;The epitope is within NS5.
+195818;http://www.iedb.org/epitope/195818;NSTFLIDGPDTSECP;Linear peptide;904;918;The epitope is within NS1.
+195838;http://www.iedb.org/epitope/195838;PNYNLIVMDEAHFTD;Linear peptide;1750;1764;The epitope is within NS3.
+195854;http://www.iedb.org/epitope/195854;QLIYVILTILTIIGL;Linear peptide;2225;2239;The epitope is within NS4B.
+195858;http://www.iedb.org/epitope/195858;QMWSLMYFHRRDLRL;Linear peptide;3248;3262;The epitope is within NS5.
+195864;http://www.iedb.org/epitope/195864;QSHWVEITALILGAQ;Linear peptide;1314;1328;The epitope is within NS2A.
+195873;http://www.iedb.org/epitope/195873;QWIAASIILEFFLMV;Linear peptide;2195;2209;The epitope is within NS4A.
+195879;http://www.iedb.org/epitope/195879;REEFISKVRSNAAIG;Linear peptide;2883;2897;The epitope is within NS5.
+195894;http://www.iedb.org/epitope/195894;RILIGFLVLWIGTNS;Linear peptide;735;749;The epitope is within the E protein.
+195901;http://www.iedb.org/epitope/195901;RNPGFALLAGFMAYM;Linear peptide;242;256;The epitope is within the M protein.
+195902;http://www.iedb.org/epitope/195902;RNSTFLIDGPDTSEC;Linear peptide;903;917;The epitope is within NS1.
+195916;http://www.iedb.org/epitope/195916;RTVFFVLMMLVAPSY;Linear peptide;264;278;The epitope is within the M protein.
+195931;http://www.iedb.org/epitope/195931;SALLKNDVPLAGPMV;Linear peptide;1363;1377;The epitope is within NS2B.
+195939;http://www.iedb.org/epitope/195939;SCVYNMMGKREKKLG;Linear peptide;2936;2950;The epitope is within NS5.
+196019;http://www.iedb.org/epitope/196019;SWMIRILIGFLVLWI;Linear peptide;731;745;The epitope is within the E protein.
+196036;http://www.iedb.org/epitope/196036;TGIQRTVFFVLMMLV;Linear peptide;260;274;The epitope is within the M protein.
+196048;http://www.iedb.org/epitope/196048;TILDVDLRPASAWTL;Linear peptide;2265;2279;The epitope is within NS4B.
+196052;http://www.iedb.org/epitope/196052;TKTDFGFYQVKTETT;Linear peptide;2251;2265;The epitope is within NS4B.
+196058;http://www.iedb.org/epitope/196058;TLMLVALLGAMTAGI;Linear peptide;2146;2160;The epitope is within NS4A.
+196062;http://www.iedb.org/epitope/196062;TNMITLLVKLALITV;Linear peptide;1436;1450;The epitope is within NS2B.
+196113;http://www.iedb.org/epitope/196113;VFFVLMMLVAPSYGM;Linear peptide;266;280;The epitope is within the M protein.
+196207;http://www.iedb.org/epitope/196207;VYLMTLMKGASRRSW;Linear peptide;1332;1346;The epitope is within NS2A.
+196224;http://www.iedb.org/epitope/196224;WSLMYFHRRDLRLAS;Linear peptide;3250;3264;The epitope is within NS5.
+196226;http://www.iedb.org/epitope/196226;WTLYAVATTILTPML;Linear peptide;2277;2291;The epitope is within NS4B.
+196227;http://www.iedb.org/epitope/196227;WVEITALILGAQALP;Linear peptide;1317;1331;The epitope is within NS2A.
+196230;http://www.iedb.org/epitope/196230;YAQMWSLMYFHRRDL;Linear peptide;3246;3260;The epitope is within NS5.
+196238;http://www.iedb.org/epitope/196238;YQNKVVKVLRPTPKG;Linear peptide;3060;3074;The epitope is within NS5.
+196253;http://www.iedb.org/epitope/196253;YVLGVFLRKLTSRET;Linear peptide;1212;1226;The epitope is within NS2A.
+539101;http://www.iedb.org/epitope/539101;AVGLVSLLGSALLKN;Linear peptide;1354;1368;The epitope is within NS2B.
+539131;http://www.iedb.org/epitope/539131;CLRRRVTRKHMILVV;Linear peptide;1148;1162;The epitope is within NS2A.
+539149;http://www.iedb.org/epitope/539149;DCVVKPLDERFSTSLLF;Linear peptide;3152;3168;
+539222;http://www.iedb.org/epitope/539222;EKPDMTIIGRRLQRL;Linear peptide;2757;2771;The epitope is within NS5.
+539230;http://www.iedb.org/epitope/539230;EMILMKMKKKTWLVH;Linear peptide;474;488;The epitope is within the E protein.
+539288;http://www.iedb.org/epitope/539288;GEAAAIFMTATPPGS;Linear peptide;1781;1795;The epitope is within NS3.
+539359;http://www.iedb.org/epitope/539359;GVFHTMWHVTRGSVI;Linear peptide;1518;1532;The epitope is within NS3.
+539360;http://www.iedb.org/epitope/539360;GVFLRKLTSRETALM;Linear peptide;1215;1229;The epitope is within NS2A.
+539379;http://www.iedb.org/epitope/539379;HAKRQDVTVLGSQEGAMH;Linear peptide;523;540;
+539406;http://www.iedb.org/epitope/539406;IGGQIHLAIMAVFKM;Linear peptide;1194;1208;The epitope is within NS2A.
+539456;http://www.iedb.org/epitope/539456;KAIFKLTYQNKVVKV;Linear peptide;3053;3067;The epitope is within NS5.
+539463;http://www.iedb.org/epitope/539463;KERMVTFKVPHAKRQ;Linear peptide;513;527;The epitope is within the E protein.
+539493;http://www.iedb.org/epitope/539493;KMLLNRFTTRHRKPT;Linear peptide;2724;2738;The epitope is within NS5.
+539537;http://www.iedb.org/epitope/539537;LAKAIFKLTYQNKVV;Linear peptide;3051;3065;The epitope is within NS5.
+539547;http://www.iedb.org/epitope/539547;LFKTLTGEIGAVTLD;Linear peptide;1589;1603;The epitope is within NS3.
+539565;http://www.iedb.org/epitope/539565;LGVFLRKLTSRETAL;Linear peptide;1214;1228;The epitope is within NS2A.
+539628;http://www.iedb.org/epitope/539628;LSLTFIRSTTPLVMA;Linear peptide;1275;1289;The epitope is within NS2A.
+539656;http://www.iedb.org/epitope/539656;MAISGDDCVVKPLDERF;Linear peptide;3146;3162;
+539703;http://www.iedb.org/epitope/539703;MVTQLAMTDTTPFGQQR;Linear peptide;2824;2840;
+539767;http://www.iedb.org/epitope/539767;PGLFKTLTGEIGAVT;Linear peptide;1587;1601;The epitope is within NS3.
+539803;http://www.iedb.org/epitope/539803;QGKTVWFVPSIKAGN;Linear peptide;1829;1843;The epitope is within NS3.
+539930;http://www.iedb.org/epitope/539930;SRETALMVIGMAMTT;Linear peptide;1223;1237;The epitope is within the NS2A protein.
+539987;http://www.iedb.org/epitope/539987;TLLCLIPTVMAFHLS;Linear peptide;103;117;The epitope is within the C protein.
+540029;http://www.iedb.org/epitope/540029;VEMGEAAAIFMTATPPG;Linear peptide;1778;1794;
+540036;http://www.iedb.org/epitope/540036;VGGLFTSLGKAVHQV;Linear peptide;704;718;The epitope is within the E protein.
+540041;http://www.iedb.org/epitope/540041;VGTYGLNTFTNMEVQ;Linear peptide;3091;3105;The epitope is within NS5.
+540051;http://www.iedb.org/epitope/540051;VLGSQEGAMHSALAGA;Linear peptide;531;546;
+540053;http://www.iedb.org/epitope/540053;VLGVFLRKLTSRETA;Linear peptide;1213;1227;The epitope is within NS2A.
+956701;http://www.iedb.org/epitope/956701;SGDPLKND;Linear peptide;1949;1956;
+1066543;http://www.iedb.org/epitope/1066543;ACLGKAYAQMWSLMY;Linear peptide;3240;3254;
+1067119;http://www.iedb.org/epitope/1067119;GKVIGLYGNGVVTKS;Linear peptide;1618;1632;
+1067635;http://www.iedb.org/epitope/1067635;LKRWGQLKKNKAIKI;Linear peptide;65;79;
+195227;http://www.iedb.org/epitope/195227;DSYIVIGVGNSALTL;Linear peptide;654;668;
+196061;http://www.iedb.org/epitope/196061;TMSLVMAWRTIMAVL;Linear peptide;1283;1297;
+539198;http://www.iedb.org/epitope/539198;ECLRRRVTRKHMILA;Linear peptide;1147;1161;
+539354;http://www.iedb.org/epitope/539354;GTRMVMTTTANWLWA;Linear peptide;2856;2870;
+539584;http://www.iedb.org/epitope/539584;LLAMGCYSQVNPTTL;Linear peptide;2332;2346;
+539666;http://www.iedb.org/epitope/539666;MGLITIAVASGLLWV;Linear peptide;2175;2189;
+539769;http://www.iedb.org/epitope/539769;PGTRMVMTTTANWLW;Linear peptide;2855;2869;
+539961;http://www.iedb.org/epitope/539961;TALMVIGMAMTTTLS;Linear peptide;1226;1240;
+738559;http://www.iedb.org/epitope/738559;AVVITLCAIILGGLT;Linear peptide;1161;1175;
+739059;http://www.iedb.org/epitope/739059;GRMLNILNGRKRSTI;Linear peptide;88;102;
+739175;http://www.iedb.org/epitope/739175;IGRMLNILNGRKRST;Linear peptide;87;101;
+540107;http://www.iedb.org/epitope/540107;VYLMTLMKGASKRSW;Linear peptide;1332;1346;
+539919;http://www.iedb.org/epitope/539919;SLTFIRSTMPLVMAW;Linear peptide;1276;1290;
+539026;http://www.iedb.org/epitope/539026;AAIFMTATPPGATDP;Linear peptide;1784;1798;
+539165;http://www.iedb.org/epitope/539165;DILTEIASLPTYLSS;Linear peptide;2097;2111;
+39225;http://www.iedb.org/epitope/39225;LRTLILAPTRVVAAE;Linear peptide;1690;1704;
+184390;http://www.iedb.org/epitope/184390;LIDGISLGL;Linear peptide;1248;1256;
+539021;http://www.iedb.org/epitope/539021;AAAIFMTATPPGSID;Linear peptide;1783;1797;
+539185;http://www.iedb.org/epitope/539185;DVDLRPASAWTLYAV;Linear peptide;2268;2282;
+539251;http://www.iedb.org/epitope/539251;FEEYKRSGILEVDRT;Linear peptide;2512;2526;
+539255;http://www.iedb.org/epitope/539255;FITFLRVLSIPPTAG;Linear peptide;49;63;
+539553;http://www.iedb.org/epitope/539553;LGEFGRAKGSRAIWY;Linear peptide;2949;2963;
+539571;http://www.iedb.org/epitope/539571;LIGFRKEIGRMLNIL;Linear peptide;80;94;
+539573;http://www.iedb.org/epitope/539573;LILAPTRVVAAEMEE;Linear peptide;1693;1707;
+539638;http://www.iedb.org/epitope/539638;LVALLGAMTAGIFLF;Linear peptide;2149;2163;
+540020;http://www.iedb.org/epitope/540020;TYGLNTFTNMEVQLI;Linear peptide;3093;3107;
+540033;http://www.iedb.org/epitope/540033;VFKMSPGYVLGVFLR;Linear peptide;1205;1219;
+540116;http://www.iedb.org/epitope/540116;WGQLKKNKAIKILIG;Linear peptide;68;82;
+738447;http://www.iedb.org/epitope/738447;AFSLIKNAQTPRRGT;Linear peptide;2475;2489;
+738568;http://www.iedb.org/epitope/738568;AYQHALNELPESLET;Linear peptide;2132;2146;
+738686;http://www.iedb.org/epitope/738686;DLRPASAWTLYAVAT;Linear peptide;2270;2284;
+738742;http://www.iedb.org/epitope/738742;ECLRRRVTRKHMILV;Linear peptide;1147;1161;
+738886;http://www.iedb.org/epitope/738886;FESTYRGAKRMAILG;Linear peptide;681;695;
+738897;http://www.iedb.org/epitope/738897;FGFYQVKTETTILDV;Linear peptide;2255;2269;
+739036;http://www.iedb.org/epitope/739036;GLPIRYQTPAVKSEH;Linear peptide;1711;1725;
+739178;http://www.iedb.org/epitope/739178;IGRMLNILNRRRRST;Linear peptide;87;101;
+739202;http://www.iedb.org/epitope/739202;ILDVDLRPASAWTLY;Linear peptide;2266;2280;
+739405;http://www.iedb.org/epitope/739405;KVRSNAAIGAVFQEE;Linear peptide;2889;2903;
+739417;http://www.iedb.org/epitope/739417;LAFSLIKNAQTPRRG;Linear peptide;2474;2488;
+739563;http://www.iedb.org/epitope/739563;LRGLPIRYQTPAVKS;Linear peptide;1709;1723;
+740013;http://www.iedb.org/epitope/740013;QLIRQMEAEGVITQD;Linear peptide;3105;3119;
+740156;http://www.iedb.org/epitope/740156;RPPFNMLKRERNRVS;Linear peptide;9;23;
+740701;http://www.iedb.org/epitope/740701;VVTLIPLCRTSCLQK;Linear peptide;1299;1313;
+186602;http://www.iedb.org/epitope/186602;YSDPLALRE;Linear peptide;2077;2085;
+62111;http://www.iedb.org/epitope/62111;SVEVKLPDY;Linear peptide;220;228;
+33955;http://www.iedb.org/epitope/33955;KVASAGISY;Linear peptide;1885;1893;
+184556;http://www.iedb.org/epitope/184556;LPSIVREAL;Linear peptide;1540;1548;
+566724;http://www.iedb.org/epitope/566724;RPKWLDARV;Linear peptide;1928;1936;
+581940;http://www.iedb.org/epitope/581940;APTRVVAAEMEEALRGL;Linear peptide;1558;1574;
+867174;http://www.iedb.org/epitope/867174;IGQTGIQRTVFFILM;Linear peptide;257;271;
+867048;http://www.iedb.org/epitope/867048;HDLMEFIDGISLGLI;Linear peptide;1243;1257;
+867874;http://www.iedb.org/epitope/867874;LMVIGMAMTTVLSIP;Linear peptide;1228;1242;
+866364;http://www.iedb.org/epitope/866364;DERFSTSLLFLNDMG;Linear peptide;3159;3173;
+867969;http://www.iedb.org/epitope/867969;LTFIRSTTPLVMAWR;Linear peptide;1277;1291;
+868371;http://www.iedb.org/epitope/868371;PRWLDARVYADPMAL;Linear peptide;2067;2081;
+539639;http://www.iedb.org/epitope/539639;LVHYAIIGPGLQAKA;Linear peptide;2354;2368;
+863140;http://www.iedb.org/epitope/863140;TRVEMGEAAAIFMTA;Linear peptide;1776;1790;
+866633;http://www.iedb.org/epitope/866633;ESCVYNMMGKREKKL;Linear peptide;2935;2949;
+866696;http://www.iedb.org/epitope/866696;FGMFTTNIWMKFREG;Linear peptide;934;948;
+867009;http://www.iedb.org/epitope/867009;GRFWNTTIAVSTANI;Linear peptide;2449;2463;
+867043;http://www.iedb.org/epitope/867043;HADMGYWIESSKNQT;Linear peptide;969;983;
+867070;http://www.iedb.org/epitope/867070;HKIFMKDGRSLVVPC;Linear peptide;3202;3216;
+867110;http://www.iedb.org/epitope/867110;HWVEITALILGAQAL;Linear peptide;1316;1330;
+867315;http://www.iedb.org/epitope/867315;ISKVRSNAAIGAVFQ;Linear peptide;2887;2901;
+867411;http://www.iedb.org/epitope/867411;KILAKAIFKLTYQNK;Linear peptide;3049;3063;
+867453;http://www.iedb.org/epitope/867453;KLTDWDFVVTTDISE;Linear peptide;1872;1886;
+867473;http://www.iedb.org/epitope/867473;KPLDERFGTSLLFLN;Linear peptide;3156;3170;
+867575;http://www.iedb.org/epitope/867575;LDERFGTSLLFLNDM;Linear peptide;3158;3172;
+867726;http://www.iedb.org/epitope/867726;LIYVILTILTIIGLI;Linear peptide;2226;2240;
+868638;http://www.iedb.org/epitope/868638;RDLRLASMAICSAVP;Linear peptide;3258;3272;
+868666;http://www.iedb.org/epitope/868666;RKSITLDILTEIASL;Linear peptide;2091;2105;
+868951;http://www.iedb.org/epitope/868951;SLPTYLSSRAKLALD;Linear peptide;2104;2118;
+869635;http://www.iedb.org/epitope/869635;VTMTLWYMWQVKTQR;Linear peptide;1460;1474;
+869670;http://www.iedb.org/epitope/869670;WCNLTSTWVMYGTCT;Linear peptide;180;194;
+56309;http://www.iedb.org/epitope/56309;RVIDPRRCL;Linear peptide;1895;1903;
+180723;http://www.iedb.org/epitope/180723;RFLEFEALGF;Linear peptide;2969;2978;
+1067215;http://www.iedb.org/epitope/1067215;HSWEDIPYL;Linear peptide;3319;3327;
+1068575;http://www.iedb.org/epitope/1068575;VVRPPFNMLKRERNR;Linear peptide;7;21;
+18085;http://www.iedb.org/epitope/18085;FTTNIWMKF;Linear peptide;937;945;
+27294;http://www.iedb.org/epitope/27294;ILRNPGFAL;Linear peptide;240;248;
+56219;http://www.iedb.org/epitope/56219;RTWAYHGSY;Linear peptide;2788;2796;
+150647;http://www.iedb.org/epitope/150647;TPMLRHTIEN;Linear peptide;2288;2297;
+151601;http://www.iedb.org/epitope/151601;ADLSLEKAANVQWDE;Linear peptide;1393;1407;"The epitope sequence is from the PDB structure from Luo D. et al., J Virol.  2008 Jan;82(1):173-83. Epub 2007 Oct 17 [PMID:17942558]."
+156711;http://www.iedb.org/epitope/156711;LAPTRVVAAEMEEAL;Linear peptide;1695;1709;
+167764;http://www.iedb.org/epitope/167764;IYVILTILTIIGLI;Linear peptide;2227;2240;
+179883;http://www.iedb.org/epitope/179883;QVGTLALSL;Linear peptide;1269;1277;
+180473;http://www.iedb.org/epitope/180473;GEFRLRGEQR;Linear peptide;1995;2004;
+180475;http://www.iedb.org/epitope/180475;GEQRKTFVEL;Linear peptide;2001;2010;
+180640;http://www.iedb.org/epitope/180640;MALKDFKEF;Linear peptide;2079;2087;
+180684;http://www.iedb.org/epitope/180684;NPRLCTREEF;Linear peptide;2877;2886;
+180764;http://www.iedb.org/epitope/180764;TETTILDVDL;Linear peptide;2262;2271;
+180778;http://www.iedb.org/epitope/180778;TPEGIIPTLF;Linear peptide;1974;1983;
+180803;http://www.iedb.org/epitope/180803;VPLLAMGCY;Linear peptide;2330;2338;
+180850;http://www.iedb.org/epitope/180850;YTPEGIIPTL;Linear peptide;1973;1982;
+195719;http://www.iedb.org/epitope/195719;LTASLAMLLVHYAII;Linear peptide;2346;2360;The epitope is within NS4B.
+26149;http://www.iedb.org/epitope/26149;IFRKKRLTI;Linear peptide;1656;1664;
+41457;http://www.iedb.org/epitope/41457;MEVQLIRQM;Linear peptide;3102;3110;
+51863;http://www.iedb.org/epitope/51863;QPKPGTRMV;Linear peptide;2852;2860;
+73054;http://www.iedb.org/epitope/73054;WRTIMAVLF;Linear peptide;1290;1298;
+195156;http://www.iedb.org/epitope/195156;ALSLTFIRSTMPLVM;Linear peptide;1274;1288;The epitope is within NS2A.
+195176;http://www.iedb.org/epitope/195176;ASLPTYLSSRAKLAL;Linear peptide;2103;2117;The epitope is within NS4A.
+195386;http://www.iedb.org/epitope/195386;GLITIAVASGLLWVA;Linear peptide;2176;2190;The epitope is within NS4A.
+195411;http://www.iedb.org/epitope/195411;GNIVSSVNTTSKMLL;Linear peptide;2713;2727;The epitope is within NS5.
+195499;http://www.iedb.org/epitope/195499;ILAKAIFKLTYQNKV;Linear peptide;3050;3064;The epitope is within NS5.
+195616;http://www.iedb.org/epitope/195616;LCAGQLLLMRTTWAF;Linear peptide;2415;2429;The epitope is within NS4B.
+195749;http://www.iedb.org/epitope/195749;MAWRTIMAVLFVVTL;Linear peptide;1288;1302;The epitope is within NS2A.
+195823;http://www.iedb.org/epitope/195823;NWLWALLGKKKNPRL;Linear peptide;2866;2880;The epitope is within NS5.
+195835;http://www.iedb.org/epitope/195835;PKPGTRMVMTTTANW;Linear peptide;2853;2867;The epitope is within NS5.
+195837;http://www.iedb.org/epitope/195837;PLVMAWRTIMAVLFV;Linear peptide;1285;1299;The epitope is within NS2A.
+195876;http://www.iedb.org/epitope/195876;RAKLALDNIVMLHTT;Linear peptide;2112;2126;The epitope is within NS4A.
+196060;http://www.iedb.org/epitope/196060;TMPLVMAWRTIMAVL;Linear peptide;1283;1297;The epitope is within NS2A.
+196071;http://www.iedb.org/epitope/196071;TRMVMTTTANWLWAL;Linear peptide;2857;2871;The epitope is within NS5.
+196092;http://www.iedb.org/epitope/196092;TYQNKVVKVLRPTPR;Linear peptide;3059;3073;The epitope is within NS5.
+196153;http://www.iedb.org/epitope/196153;VMAWRTIMAVLFVVT;Linear peptide;1287;1301;The epitope is within NS2A.
+196154;http://www.iedb.org/epitope/196154;VMLLVLCAGQLLLMR;Linear peptide;2410;2424;The epitope is within NS4B.
+196208;http://www.iedb.org/epitope/196208;WAFCEVLTLATGPIL;Linear peptide;2427;2441;The epitope is within NS4B.
+539020;http://www.iedb.org/epitope/539020;AAAIFMTATPPGATD;Linear peptide;1783;1797;The epitope is within NS3.
+539057;http://www.iedb.org/epitope/539057;AGQLLLMRTTWAFCE;Linear peptide;2417;2431;The epitope is within NS4B.
+539058;http://www.iedb.org/epitope/539058;AHFTDPSSVAARGYIST;Linear peptide;1760;1776;
+539433;http://www.iedb.org/epitope/539433;IRSTMPLVMAWRTIM;Linear peptide;1280;1294;The epitope is within NS2A.
+539498;http://www.iedb.org/epitope/539498;KPDMTIIGRRLQRLQ;Linear peptide;2758;2772;The epitope is within NS5.
+539576;http://www.iedb.org/epitope/539576;LIVMDEAHFTDPSSVAA;Linear peptide;1754;1770;
+539627;http://www.iedb.org/epitope/539627;LSLTFIRSTMPLVMA;Linear peptide;1275;1289;The epitope is within NS2A.
+539631;http://www.iedb.org/epitope/539631;LTEIASLPTYLSSRA;Linear peptide;2099;2113;The epitope is within NS4A.
+539687;http://www.iedb.org/epitope/539687;MPLVMAWRTIMAVLF;Linear peptide;1284;1298;The epitope is within NS2A.
+539770;http://www.iedb.org/epitope/539770;PHHKILAKAIFKLTY;Linear peptide;3046;3060;The epitope is within NS5.
+539937;http://www.iedb.org/epitope/539937;STMPLVMAWRTIMAV;Linear peptide;1282;1296;The epitope is within NS2A.
+539962;http://www.iedb.org/epitope/539962;TALMVIGMAMTTVLS;Linear peptide;1226;1240;The epitope is within the NS2A protein.
+540007;http://www.iedb.org/epitope/540007;TTSKMLLNRFTTRHR;Linear peptide;2721;2735;The epitope is within NS5.
+195488;http://www.iedb.org/epitope/195488;IGRMLNILNRRKRST;Linear peptide;87;101;
+195580;http://www.iedb.org/epitope/195580;KNKAIKILIGFRKEI;Linear peptide;73;87;The epitope is within the C protein.
+539581;http://www.iedb.org/epitope/539581;LKKNKAIKILIGFRK;Linear peptide;71;85;The epitope is within the C protein.
+195565;http://www.iedb.org/epitope/195565;KGPLRMVLAFITFLR;Linear peptide;40;54;The epitope is within the C protein.
+195587;http://www.iedb.org/epitope/195587;KRWGQLKKNKAIKIL;Linear peptide;66;80;The epitope is within the C protein.
+195651;http://www.iedb.org/epitope/195651;LKKNKAIKILTGFRK;Linear peptide;71;85;The epitope is within the C protein.
+195900;http://www.iedb.org/epitope/195900;RMVLAFITFLRVLSI;Linear peptide;44;58;The epitope is within the C protein.
+196066;http://www.iedb.org/epitope/196066;TPQGLVKRFSTGLFS;Linear peptide;24;38;The epitope is within the C protein.
+196134;http://www.iedb.org/epitope/196134;VLAFITFLRVLSIPP;Linear peptide;46;60;The epitope is within the C protein.
+539044;http://www.iedb.org/epitope/539044;AFITFLRVLSIPPTA;Linear peptide;48;62;The epitope is within the C protein.
+539496;http://www.iedb.org/epitope/539496;KNKAIKILTGFRKEI;Linear peptide;73;87;The epitope is within the C protein.
+539536;http://www.iedb.org/epitope/539536;LAFITFLRVLSIPPT;Linear peptide;47;61;The epitope is within the C protein.
+539898;http://www.iedb.org/epitope/539898;SGKGPLRMVLAFITF;Linear peptide;38;52;The epitope is within the capsid protein.
+868732;http://www.iedb.org/epitope/868732;RWGQLKKNKAIKILI;Linear peptide;67;81;
+539294;http://www.iedb.org/epitope/539294;GFRKEIGRMLNILNG;Linear peptide;82;96;
+539632;http://www.iedb.org/epitope/539632;LTGFRKEIGRMLNIL;Linear peptide;80;94;
+868517;http://www.iedb.org/epitope/868517;QLKKNKAIKILTGFR;Linear peptide;70;84;
+869119;http://www.iedb.org/epitope/869119;TEGINKCTLIAMDLG;Linear peptide;141;155;
+539395;http://www.iedb.org/epitope/539395;IDCWCNLTSAWVMYG;Linear peptide;177;191;
+71854;http://www.iedb.org/epitope/71854;VVTLIPLCR;Linear peptide;1299;1307;
