@@ -1,0 +1,71 @@
+"""
+Author: Rik Aikes
+Description: Snakefile contains the pipeline used for the GNSR analysis.
+Usage: use by running snakemake from the workflow folder.
+"""
+configfile: "config/config.yaml",
+
+rule all:
+    input:
+        expand("/prog/BIF30806/project/groen_team/results_{genome}/kallisto_{sample}/abundance.tsv", sample = config["samples"], genome = config["genomes"]),
+        expand("/prog/BIF30806/project/groen_team/tx2gene{genome}.tsv", genome = config["genomes"]),
+        expand("/prog/BIF30806/project/groen_team/results_deg/filtered_gene_occurrences_{genome}.tsv", genome = config["genomes"]),
+        expand("/prog/BIF30806/project/groen_team/results_deg/shared_genes_{genome}.tsv", genome = config["genomes"]),
+        expand("/prog/BIF30806/project/groen_team/results_deg/tableFC_GNSR_{genome}.tsv", genome = config["genomes"]),
+
+# maps reads to the reference genomes using kallisto
+rule kallisto:
+    input:
+        path=lambda wildcards: config["samples"][wildcards.sample],
+        index=lambda wildcards: config["indices"][wildcards.genome],
+    output:
+        "/prog/BIF30806/project/groen_team/results_{genome}/kallisto_{sample}/abundance.tsv"
+    threads:
+        2
+    shell:
+        "kallisto quant --single -s 20 -l 200 -t {threads} -i {input.index} -o $(dirname {output}) {input.path}"
+
+# builds tx2gene.tsv file required for tximport
+rule build_tx2gene:
+    input:
+        expand("/prog/BIF30806/project/groen_team/results_{genome}/kallisto_{sample}/abundance.tsv", sample = config["samples"], genome = config["genomes"])
+    output:
+        "/prog/BIF30806/project/groen_team/tx2gene{genome}.tsv"
+    script:
+        "python_files/build_tx2gene.py"
+
+# runs R script to find GNSR genes for Araport11
+rule find_gnsr_Araport11:
+    input:
+        path_tx2 = lambda wildcards: "/prog/BIF30806/project/groen_team/tx2geneAraport11.tsv",
+        metadata = config["metadata"],
+        abundance = expand("/prog/BIF30806/project/groen_team/results_Araport11/kallisto_{sample}/abundance.h5", sample = config["samples"], genome = config["genomes"]),
+    params:
+        logfc2 = 1,
+        FDR_thresh = 0.01,
+        perc = 0.5,
+    output:
+        filtered = "/prog/BIF30806/project/groen_team/results_deg/filtered_gene_occurrences_Araport11.tsv",
+        shared = "/prog/BIF30806/project/groen_team/results_deg/shared_genes_Araport11.tsv",
+        tableFC = "/prog/BIF30806/project/groen_team/results_deg/tableFC_GNSR_Araport11.tsv",
+    # required to run the Rscript using the correct version of R
+    shell:
+        "/opt/R/4.3.2/bin/Rscript workflow/R_files/find_gnsr.R {input.path_tx2} {input.metadata} {params.logfc2} {params.FDR_thresh} {params.perc} {output.filtered} {output.shared} {output.tableFC} {input.abundance}"
+
+# runs R script to find GNSR genes for TAIR10
+rule find_gnsr_TAIR10:
+    input:
+        path_tx2 = lambda wildcards: "/prog/BIF30806/project/groen_team/tx2geneTAIR10.tsv",
+        metadata = config["metadata"],
+        abundance = expand("/prog/BIF30806/project/groen_team/results_TAIR10/kallisto_{sample}/abundance.h5", sample = config["samples"], genome = config["genomes"]),
+    params:
+        logfc2 = 1,
+        FDR_thresh = 0.01,
+        perc = 0.5,
+    output:
+        filtered = "/prog/BIF30806/project/groen_team/results_deg/filtered_gene_occurrences_TAIR10.tsv",
+        shared = "/prog/BIF30806/project/groen_team/results_deg/shared_genes_TAIR10.tsv",
+        tableFC = "/prog/BIF30806/project/groen_team/results_deg/tableFC_GNSR_TAIR10.tsv",
+    # required to run the Rscript using the correct version of R
+    shell:
+        "/opt/R/4.3.2/bin/Rscript workflow/R_files/find_gnsr.R {input.path_tx2} {input.metadata} {params.logfc2} {params.FDR_thresh} {params.perc} {output.filtered} {output.shared} {output.tableFC} {input.abundance}"
